@@ -30,8 +30,13 @@ The MPRINT knowledge portal employs a dual-version structure to accommodate dive
 
 ### Tables
 
-| Table     | Description  |
-| ------------------ | ----------|
-| gold_drug_disease_pairs | Expert-curated drug-disease pairs |
-| gold_drug_gene_pairs | Expert-curated drug-gene pairs |
-| gold_gene_disease_pairs | Expert-curated gene-disease pairs |
+| Folder|Table     | Description  |
+| -----|----------- | ----------|
+|PE| study| epidemiology/clinical trial study design  |
+| PE | outcome | Expert curated outcomes from epidemiology/clinical trial studies |
+| PK| study | PK study design  |
+| PK | outcome | Expert curated outcomes from PK studies |
+|PK| drug | Drug information for PK studies |
+| PK | population | Population information for PK studies |
+|PK| pk_parameter | PK parameters for PK studies |
+|PK|specimen | Specimen information for PK studies |
