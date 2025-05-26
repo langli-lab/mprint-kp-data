@@ -26,4 +26,12 @@ The MPRINT knowledge portal employs a dual-version structure to accommodate dive
 >    PE - EPidemiological study
 >    
 >    CT - Clinical trial
+## MPRINT KB Gold
 
+### Tables
+
+| Table     | Description  |
+| ------------------ | ----------|
+| gold_drug_disease_pairs | Expert-curated drug-disease pairs |
+| gold_drug_gene_pairs | Expert-curated drug-gene pairs |
+| gold_gene_disease_pairs | Expert-curated gene-disease pairs |
