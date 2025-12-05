@@ -1,0 +1,804 @@
+PMID,PMCID,Clinical trial ID,DOI,URL,Population,Study type,Drug name,Species,Note,_source_file,_source_folder,_source_sheet_original,_source_sheet_canonical,_row_index,_processed_at,Drug CUI
+20914,,,10.1093/bja/49.9.891,,Maternal/Newborn,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,2,2025-12-02T15:56:26.773920,C0025376
+47537,,,,,Maternal/Labor/Postpartum,PK,Paracetamol/meperidine/Diamorphine/Pentazocine/metoclopramide,Human,Figures show inhibitory effects of narcotics on paracetamol,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,3,2025-12-02T15:56:26.773920,C0373527|C0025376|C0011892|C0030873|C0025853
+359109,,,10.1007/BF03006569,,Maternal/labor/delivery/Newborn,"PK, efficacy, side effects",butorphanol/meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,4,2025-12-02T15:56:26.773920,C0006491|C0025376
+434034,,,,,Maternal/Labor,PK,Meperidine,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,5,2025-12-02T15:56:26.773920,C0025376
+434035,,,,,Maternal/Labor/Fetal/Neonate,PK,Meperidine,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,6,2025-12-02T15:56:26.773920,C0025376
+466928,,,10.1002/cpt1979263354,,Children,PK,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,7,2025-12-02T15:56:26.773920,C0026549
+656525,,,10.1159/000241055,,Maternal/Infant,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,8,2025-12-02T15:56:26.773920,C0025376
+910821,,,10.1016/0002-9378(77)90588-9,,Maternal/Neonate,PK,methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,9,2025-12-02T15:56:26.773920,C0202418
+1115163,,,,,Maternal/pregnancy/Delivery/Postpartum/Fetal,PK,methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,10,2025-12-02T15:56:26.773920,C0202418
+1163360,,,,,Maternal/Neonate,PK,methadone,Human,Concentration-time figure available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,11,2025-12-02T15:56:26.773920,C0202418
+1218165,,,10.1093/bja/47.12.1265,,Maternal/Pregnancy/TOP,PK,morphine,Human,individual plasma morphine concentrations available in figures,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,12,2025-12-02T15:56:26.773920,C0026549
+1261164,,,10.1002/cpt1976193264,,Children,PK,propoxyphene,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,13,2025-12-02T15:56:26.773920,C0033493
+1271174,,,10.1016/s0022-3476(76)81074-8,,Maternal/Neonate,PK,methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,14,2025-12-02T15:56:26.773920,C0202418
+1424407,,,10.1038/clpt.1992.153,,Neonates/Infant,"PK, PD",meperidine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,15,2025-12-02T15:56:26.773920,C0025376
+1437393,,,,,Maternal/Neonate/Labor/Postpartum,PK/PD,Meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,16,2025-12-02T15:56:26.773920,C0025376
+1467140,,,10.1111/j.1365-2125.1992.tb05652.x,,Neonate/Infant,PK,Morphine ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,17,2025-12-02T15:56:26.773920,C0026549
+1467165,,,10.3109/08880019209016603,,Children,PK,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,18,2025-12-02T15:56:26.773920,C0026549
+1533168,,,10.1016/1053-0770(92)90195-d,,Infant/child,PK,sufentanil ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,19,2025-12-02T15:56:26.773920,C0143993
+1540490,,,10.1111/j.1365-2125.1992.tb03999.x,,Infant/Young Children,PK,codeine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,20,2025-12-02T15:56:26.773920,C0009214
+1551153,,,10.1007/BF03008782,,Maternal/Lactation,PK ,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,21,2025-12-02T15:56:26.773920,C0015846
+1551160,,,10.1111/j.1440-1754.1991.tb00360.x,,Maternal/Fetal,PK case report,fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,22,2025-12-02T15:56:26.773920,C0015846
+1567033,,,,,Maternal/Labor,PK,Morphine/Bupivacaine,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,23,2025-12-02T15:56:26.773920,C0026549|C0006400
+1578319,,,10.1016/s0022-3476(05)80251-3,,Preterm Newborn Infant,PK,Morphine ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,24,2025-12-02T15:56:26.773920,C0026549
+1632539,,,,,Neonates,PK,alfentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,25,2025-12-02T15:56:26.773920,C0002026
+1636668,,,10.1001/archpedi.1992.02160200094036,,Children,PK,Morphine ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,26,2025-12-02T15:56:26.773920,C0026549
+1683310,,,,,Maternal/Delivery/Fetal,PK,meperidine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,27,2025-12-02T15:56:26.773920,C0025376
+1765214,,,,,Maternal//Labor/delivery/Neonate,PK,Fentanyl,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,28,2025-12-02T15:56:26.773920,C0015846
+1869598,,,10.1111/j.1365-2710.1991.tb00303.x,,Children,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,29,2025-12-02T15:56:26.773920,C0026549
+1883657,,,10.1111/j.1440-1754.1991.tb00360.x,,Maternal/Neonate,PK,methadone ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,30,2025-12-02T15:56:26.773920,C0202418
+1919898,,,10.1016/s0022-3476(05)82419-9,,Neonate,PK,fentanyl ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,31,2025-12-02T15:56:26.773920,C0015846
+1923912,,,,,Neonate ,PK,alfentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,32,2025-12-02T15:56:26.773920,C0002026
+2012289,,,,,Children,PKPD,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,33,2025-12-02T15:56:26.773920,C0026549
+2078976,,,10.1159/000457625,,Neonate ,PK,alfentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,34,2025-12-02T15:56:26.773920,C0002026
+2097341,,,,,Maternal/Labor/Adult/Neonate,PK,Morphine,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,35,2025-12-02T15:56:26.773920,C0026549
+2137997,,,10.1097/00000542-199003000-00013,,Pediatric/Adult,PK,sufentanil,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,36,2025-12-02T15:56:26.773920,C0143993
+2231835,,,10.3109/15563659008994437,,Maternal/Lactation/Neonate,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,37,2025-12-02T15:56:26.773920,C0026549
+2240676,,,,,Maternal/Labor/Lactation/Neonate,PK/PD,Meperidine/Morphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,38,2025-12-02T15:56:26.773920,C0025376|C0026549
+2248393,,,10.1097/00000542-199012000-00011,,Neonate,PK,fentanyl,Human,plasma fentanyl concentrations are plotted by ECMO day,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,39,2025-12-02T15:56:26.773920,C0015846
+2262875,,,,,Maternal/Labor/Delivery/Fetal,PK,Morphine,Human,fetal-maternal ratio to time curves,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,40,2025-12-02T15:56:26.773920,C0026549
+2288836,,,10.1111/j.1365-2125.1990.tb05458.x,,Pediatric,PK,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,41,2025-12-02T15:56:26.773920,C0026549
+2288837,,,10.1111/j.1365-2125.1990.tb05459.x,,Children,"PK, case report",morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,42,2025-12-02T15:56:26.773920,C0026549
+2354106,,,10.1093/bja/64.5.649-a,,Adolescent,"PK, case report",morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,43,2025-12-02T15:56:26.773920,C0026549
+2485290,,,,,Maternal/Pregnancy,PK/PM,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,44,2025-12-02T15:56:26.773920,C0202418
+2568289,,,,,Maternal/Labor,PK,meperidine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,45,2025-12-02T15:56:26.773920,C0025376
+2590614,,,10.1111/j.1365-2125.1989.tb03548.x,,Children/Premature Neonates,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,46,2025-12-02T15:56:26.773920,C0026549
+2719905,,,10.1111/j.1365-2125.1989.tb05401.x,,Children,"PK, case report",morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,47,2025-12-02T15:56:26.773920,C0026549
+2729393,,,,,Maternal/Labor/Adult,PK,Meperidine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,48,2025-12-02T15:56:26.773920,C0025376
+2744067,,,,,Maternal/Pregnancy/Adult,PK,Meptazinol,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,49,2025-12-02T15:56:26.773920,C0025387
+2800981,,,10.1111/j.1399-6576.1989.tb02938.x,,Maternal/Lactation,PK,Morphine ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,50,2025-12-02T15:56:26.773920,C0026549
+2876662,,,,,Maternal/Term/Adult/Neonate,PK,Alfentanil,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,51,2025-12-02T15:56:26.773920,C0002026
+2913858,,,,,Infant/Children/Adults,PKPD,fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,52,2025-12-02T15:56:26.773920,C0015846
+2959170,,,,,Pediatric,PK,Sufentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,53,2025-12-02T15:56:26.773920,C0143993
+2964213,,,,,Adolescent,PK,sufentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,54,2025-12-02T15:56:26.773920,C0143993
+2979128,,,,,Children,PKPD,alfentanil,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,55,2025-12-02T15:56:26.773920,C0002026
+3098137,,,10.1097/00000542-198612000-00005,,Children,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,56,2025-12-02T15:56:26.773920,C0026549
+3120765,,,10.1093/bja/59.11.1437,,Children,PK,alfentanil ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,57,2025-12-02T15:56:26.773920,C0002026
+3214378,,,,,Maternal/Labor/Delivery/Neonate,PK/PD,Bupivacaine/meperidine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,58,2025-12-02T15:56:26.773920,C0006400|C0025376
+3377945,,,10.1093/bja/60.6.623,,Children,PK,meperidine ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,59,2025-12-02T15:56:26.773920,C0025376
+3535859,,,10.1093/bja/58.11.1218,,Children,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,60,2025-12-02T15:56:26.773920,C0026549
+3609115,,,,,Children/Adolescent,PK,fentanyl,Human,animal data not curated here,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,61,2025-12-02T15:56:26.773920,C0015846
+3609434,,,10.1016/0028-2243(87)90099-2,,Maternal/Fetal,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,62,2025-12-02T15:56:26.773920,C0026549
+3670879,,,,,Pediatric,PK,Morphine,Human,animal data not curated here,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,63,2025-12-02T15:56:26.773920,C0026549
+3709338,,,,,Children/Adolescent,PK,fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,64,2025-12-02T15:56:26.773920,C0015846
+3740151,,,,,Maternal/Pregnancy,PK,nalbuphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,65,2025-12-02T15:56:26.773920,C0027348
+3813075,,,10.1097/00000542-198702000-00005,,Infant,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,66,2025-12-02T15:56:26.773920,C0026549
+3840338,,,,,Infant,PK/PD,fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,67,2025-12-02T15:56:26.773920,C0015846
+3954090,,,,,Neonate,PK,Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,68,2025-12-02T15:56:26.773920,C0015846
+3970110,,,,,Maternal/Neonate/Labor/Postpartum,PK,Meperidine,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,69,2025-12-02T15:56:26.773920,C0025376
+3981450,,,,,Maternal/Pregnancy/Postpartum/Neonate,PK,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,70,2025-12-02T15:56:26.773920,C0202418
+4072588,,,,,Children,PK,Morphine/Diazepam,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,71,2025-12-02T15:56:26.773920,C0026549|C0012010
+4383857,,,,,Maternal/Labor/Delivery/Fetal/Neonate,PK,pentazocine/meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,72,2025-12-02T15:56:26.773920,C0030873|C0025376
+6200819,,,,,Children/Young Adults,PK,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,73,2025-12-02T15:56:26.773920,C0026549
+6489427,,,,,Infant/Children/Adolescent,PK,fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,74,2025-12-02T15:56:26.773920,C0015846
+6653402,,,,,Infant/Children,PK,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,75,2025-12-02T15:56:26.773920,C0026549
+6670461,,,,,Maternal/Labor/Delivery/Newborn,PK,Meperidine,Human,PK/dose/dose-delivery interval correlation available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,76,2025-12-02T15:56:26.773920,C0025376
+6713779,,,,,Maternal/Lactation,PK,Propoxyphene,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,77,2025-12-02T15:56:26.773920,C0033493
+6721986,,,,,Maternal/Pregnancy/Adult,PK/binding,Meperidine,Human,"Subjects CL=1, DF=2, RU=3, LA=4, GP=5, JP=6, MM=7, BS=8, JF=9, CJ=10, SS=11, JL=12",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,78,2025-12-02T15:56:26.773920,C0025376
+6893898,,,10.1016/0002-9378(81)90404-x,,Maternal/Fetal,PK,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,79,2025-12-02T15:56:26.773920,C0026549
+6896151,,,10.1093/bja/54.5.487,,Maternal/Labor/Fetal,PKPD,morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,80,2025-12-02T15:56:26.773920,C0026549
+6897154,,,,,Maternal/Delivery,PK/PD/CT,Morphine/meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,81,2025-12-02T15:56:26.773920,C0026549|C0025376
+6927545,,,,,Newborn,PK,morphine,Human/Monkey,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,82,2025-12-02T15:56:26.773920,C0026549
+6933942,,,10.1007/978-3-642-67729-8_83,,Maternal/Labor,PK,meperidine/Noramidopyrine methane-sulfonate sodium/Aminophenazone/Methaqualone/Ampicillin/Cephalothin/Chlorsulfamethin/Indocyaninegreen,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,83,2025-12-02T15:56:26.773920,C0025376|CUI_NOT_FOUND|C0002586|C0025627|C0365589|C0007735|CUI_NOT_FOUND|CUI_NOT_FOUND
+7059414,,,10.1111/j.1365-2125.1982.tb01352.x,,Maternal/Labor,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,84,2025-12-02T15:56:26.773920,C0025376
+7138758,,,,,Neonate/Nonpregnant Adults,PK,Meptazinol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,85,2025-12-02T15:56:26.773920,C0025387
+7211235,,,10.3109/00016348109154108,,Maternal/Neonatal ,"PK, PD",meperidine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,86,2025-12-02T15:56:26.773920,C0025376
+7214793,,,10.1038/clpt.1981.87,,Maternal/Lactation,"PK, case report",codeine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,87,2025-12-02T15:56:26.773920,C0009214
+7225299,,,10.1111/j.1471-0528.1981.tb01004.x,,Neonate,"PK, PD",meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,88,2025-12-02T15:56:26.773920,C0025376
+7318376,,,,,Stillborn Infant,PK/case reports,propoxyphene/morphine/codeine,human,"death from heroin, main drug with acetylcodeine contamination",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,89,2025-12-02T15:56:26.773920,C0033493|C0026549|C0009214
+7357807,,,,,Maternal/Neonate/Labor/Adult,PK,Meperidine,Human,Concentration-time/excretion-time figures available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,90,2025-12-02T15:56:26.773920,C0025376
+7437369,,,10.1111/j.1471-0528.1980.tb04459.x,,Maternal/Neonatal ,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,91,2025-12-02T15:56:26.773920,C0025376
+7446613,,,10.1016/s0002-9378(16)32739-9,,Maternal/labor/delivery/lactation/Neonatal ,PK,butorphanol,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,92,2025-12-02T15:56:26.773920,C0006491
+7471613,,,10.1038/clpt.1981.65,,Maternal/Fetal,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,93,2025-12-02T15:56:26.773920,C0025376
+7526750,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta,alfentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,94,2025-12-02T15:56:26.773920,C0002026
+7545736,,,10.1016/0885-3924(95)90012-8,,Pediatric ,PK,Hydromorphone ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,95,2025-12-02T15:56:26.773920,C0012306
+7552591,,,10.1136/fn.73.1.f22,,Newborn ,PK/CT,Morphine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,96,2025-12-02T15:56:26.773920,C0026549
+7574018,,,,,Maternal/Labor/Delivery/Neonate,PK/PD,Bupivacaine/Fentanyl,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,97,2025-12-02T15:56:26.773920,C0006400|C0015846
+7589618,,,,,Adult women,PKPD,Midazolam/Fentanyl/alfentanil,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,98,2025-12-02T15:56:26.773920,C0026056|C0015846|C0002026
+7631952,,,,,Maternal/Labor/Delivery/Neonate,CT/PK/PD,Bupivacaine/Fentanyl/Sufentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,99,2025-12-02T15:56:26.773920,C0006400|C0015846|C0143993
+7841696,,,10.1111/j.1651-2227.1994.tb12976.x,,Newborn,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,100,2025-12-02T15:56:26.773920,C0026549
+7869211,,,10.1016/s0022-3476(95)70472-8,,Pediatric ,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,101,2025-12-02T15:56:26.773920,C0026549
+7924762,,,,,Neonate/Infant,PK,morphine,Human,did not encounter any adverse effects in the present series,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,102,2025-12-02T15:56:26.773920,C0026549
+7948434,,,10.1159/000244083,,Preterm Neonate,PK,Morphine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,103,2025-12-02T15:56:26.773920,C0026549
+7999650,,,,,Maternal/Labor/Fetal,PKPD,alfentanil,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,104,2025-12-02T15:56:26.773920,C0002026
+8026197,,,10.1097/00003246-199407000-00008,,Infant,PK ,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,105,2025-12-02T15:56:26.773920,C0026549
+8213024,,,,,Maternal/Delivery/Lactation/Neonate,PK,morphine,human ,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,106,2025-12-02T15:56:26.773920,C0026549
+8260056,,,,,Maternal/Lactation/Neonate,PK,codeine/morphine,human ,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,107,2025-12-02T15:56:26.773920,C0009214|C0026549
+8319480,,,10.1097/00003246-199307000-00012,,Children,PK ,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,108,2025-12-02T15:56:26.773920,C0015846
+8442811,,,10.1055/s-2007-994711,,Neonate,PK,morphine sulfate,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,109,2025-12-02T15:56:26.773920,C0066814
+8471411,,,,,Premature Neonate,PK,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,110,2025-12-02T15:56:26.773920,C0026549
+8487566,,,,,Neonate/Infant,PK,fentanyl/lorazepam,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,111,2025-12-02T15:56:26.773920,C0015846|C0024002
+8623970,,,,,Maternal/Labor,PK,Bupivacaine/Fentanyl,human,"Concentration-time curve/box plots for Cmax, tmax,/AUC available. No PK values in tables or text",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,112,2025-12-02T15:56:26.773920,C0006400|C0015846
+8706774,,,,,Maternal/Labor/Delivery/Neonate,PK,Nalbuphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,113,2025-12-02T15:56:26.773920,C0027348
+8738689,,,10.1111/j.1399-6576.1996.tb04467.x,,Pediatric ,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,114,2025-12-02T15:56:26.773920,C0026549
+8827580,,,,,Maternal/Postpartum/Lactation,PK,ketobemidone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,115,2025-12-02T15:56:26.773920,C0064311
+8839086,,,10.1111/j.1460-9592.1996.tb00350.x,,Adolescent,PK,Morphine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,116,2025-12-02T15:56:26.773920,C0026549
+9024020,,,,,Pediatric/Newborn/Preterm/term,PK/protein-binding/in-vitro,alfentanil/Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,117,2025-12-02T15:56:26.773920,C0002026|C0015846
+9034277,,,10.1097/00003246-199702000-00027,,Infant,PK,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,118,2025-12-02T15:56:26.773920,C0026549
+9055894,,,10.1111/j.1651-2227.1997.tb08869.x,,Maternal/Infant,PK,meperidine ,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,119,2025-12-02T15:56:26.773920,C0025376
+9089420,,,10.1002/j.1552-4604.1997.tb04780.x,,Maternal/Lactation,PK,Methohexital/Meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,120,2025-12-02T15:56:26.773920,C0025668|C0025376
+9107559,,,10.1111/j.1472-8206.1997.tb00180.x,,Children,PK,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,121,2025-12-02T15:56:26.773920,C0026549
+9134513,,,,,Newborn,PK,fentanyl,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,122,2025-12-02T15:56:26.773920,C0015846
+9203876,,,10.1111/j.1365-2044.1997.154-az0160.x,,Maternal/Neonate,PK,Bupivacaine/Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,123,2025-12-02T15:56:26.773920,C0006400|C0015846
+9305564,,,,,Maternal/Labor/Delivery/Fetal,PK/ex-vivo,sufentanil,human ,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,124,2025-12-02T15:56:26.773920,C0143993
+9341416,,,10.1177/089033449701300312,,Maternal/Lactation,PK,methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,125,2025-12-02T15:56:26.773920,C0202418
+9390114,,,10.1016/S0009-9236(97)90053-9,,Maternal/Newborn,PK case report,Buprenolphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,126,2025-12-02T15:56:26.773920,CUI_NOT_FOUND
+9431829,,,,,Maternal/Pregnancy/Neonate,PK/PD,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,127,2025-12-02T15:56:26.773920,C0202418
+9485967,,,10.1111/j.1365-2044.1997.238-az0373.x,,Maternal/Labor,PK,Bupivacaine/Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,128,2025-12-02T15:56:26.773920,C0006400|C0015846
+9585276,,,10.1097/00000539-199805000-00008,,Infant,PK,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,129,2025-12-02T15:56:26.773920,C0026549
+9637638,,,,,Maternal/Labor/Delivery/Neonate,PK,Remifentanil,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,130,2025-12-02T15:56:26.773920,C0246631
+9662490,,,,,Maternal/Labor/Fetal,PK,morphine/oxytocin,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,131,2025-12-02T15:56:26.773920,C0026549|C1704206
+9667297,,,,,Maternal/Labor/Delivery/Neonate,PK/PD,Bupivacaine/Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,132,2025-12-02T15:56:26.773920,C0006400|C0015846
+9756318,,,,,Maternal/Fetal/Pregnancy,PK,Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,133,2025-12-02T15:56:26.773920,C0015846
+10064669,,,,,Pediatric/Children,PK/PD,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,134,2025-12-02T15:56:26.773920,C0015846
+10512263,,,,,Pediatric/Children,PK,remifentanil,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,135,2025-12-02T15:56:26.773920,C0246631
+10518075,,,,,Pediatric/Preterm,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,136,2025-12-02T15:56:26.773920,C0026549
+10562792,,,,,Maternal/Fetal/Pregnancy,PK,Fentanyl,Human,Concentration-time figure available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,137,2025-12-02T15:56:26.773920,C0015846
+10597891,,,,,Maternal/Labor/Delivery/Fetal,PK/ex-vivo/placenta,Morphine/naloxone,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,138,2025-12-02T15:56:26.773920,C0026549|C0027358
+10604817,,,,,Maternal/Pregnancy/Infant/trimester 2,PK/case report,morphine/codeine,human,"death from heroin, main drug",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,139,2025-12-02T15:56:26.773920,C0026549|C0009214
+10631963,,,,,Maternal/Pregnancy/Adult,PK,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,140,2025-12-02T15:56:26.773920,C0202418
+10793594,,,,,Pediatric/Children,PK,Tramadol,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,141,2025-12-02T15:56:26.773920,C0040610
+10839874,,,,,Pediatric/Newborn Infant,PK,fentanyl,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,142,2025-12-02T15:56:26.773920,C0015846
+10942481,,,,,Maternal/Fetal/Pregnancy,PK/PD,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,143,2025-12-02T15:56:26.773920,C0026549
+10962165,,,,,Pediatric/Preterm,PK/PD,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,144,2025-12-02T15:56:26.773920,C0026549
+10976547,,,,,Pediatric/Newborn Infant,PK,morphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,145,2025-12-02T15:56:26.773920,C0026549
+11064622,,,,,Pediatric/Children,CT/PK,fentanyl/sufentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,146,2025-12-02T15:56:26.773920,C0015846|C0143993
+11098103,,,10.1016/S0304-3959(00)00313-4,,Infant,"PK, CT",morphine,Human,plot of Morphine clearance (ml min21 kg21 ) vs. age (days) in infants receiving morphine,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,147,2025-12-02T15:56:26.773920,C0026549
+11121932,,,,,Pediatric/Infant/Children,PK/PD,fentanyl,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,148,2025-12-02T15:56:26.773920,C0015846
+11153342,,,,,Maternal/Postpartum/Lactation/Neonate,PK,Methadone,Human,no adverse outcomes in neonates in this study,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,149,2025-12-02T15:56:26.773920,C0202418
+11153344,,,,,Maternal/Lactation/Infant,PK/PD case-report,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,150,2025-12-02T15:56:26.773920,C0026549
+11726413,,,,,Pediatric/Infant/Children/Adolescents,PK,remifentanil,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,151,2025-12-02T15:56:26.773920,C0246631
+11736879,,,,,Maternal/Lactation/Infant,PK,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,152,2025-12-02T15:56:26.773920,C0202418
+11752093,,,,,Maternal/Labor/Delivery/Fetal,PK/ex-vivo,sufentanil/buprenorphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,153,2025-12-02T15:56:26.773920,C0143993|C0006405
+11772825,,,,,Maternal/Pregnancy/Lactation,PK,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,154,2025-12-02T15:56:26.773920,C0026549
+12535033,,,,,Pediatric/Infant,PK/PD,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,155,2025-12-02T15:56:26.773920,C0026549
+12587803,,,,,Maternal/Lactation,PK,hydromorphone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,156,2025-12-02T15:56:26.773920,C0012306
+12676878,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta,L-α-Acetylmethadol/L-α-Acetyl-N-normethadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,157,2025-12-02T15:56:26.773920,CUI_NOT_FOUND|CUI_NOT_FOUND
+12779111,,,,,Pediatric/Children,PK,Tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,158,2025-12-02T15:56:26.773920,C0040610
+12873948,,,,,Maternal/Postpartum,CT/PK,Tramadol/diclofenac,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,159,2025-12-02T15:56:26.773920,C0040610|C0012091
+12897995,,,10.1007/s00134-003-1899-4,,Neonate,"PK, CT",morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,160,2025-12-02T15:56:26.773920,C0026549
+15001964,,,,,Pediatric/Children,CT/PK/PD,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,161,2025-12-02T15:56:26.773920,C0026549
+15217304,,,,,Pediatric/Infant/Children,PK,Oxycodone,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,162,2025-12-02T15:56:26.773920,C0030049
+15321955,,,,,Maternal/Pediatric/Infant,PK/PD,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,163,2025-12-02T15:56:26.773920,C0202418
+15448532,,,,,Maternal/Labor,PD,Sufentanil,human ,analgesia duration graphs available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,164,2025-12-02T15:56:26.773920,C0143993
+15502029,,,,,Pediatric/Children,PK,Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,165,2025-12-02T15:56:26.773920,C0015846
+15568714,,,,,Pediatric/Infant,PK case-report,oxycodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,166,2025-12-02T15:56:26.773920,C0030049
+15588727,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta/transporter,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,167,2025-12-02T15:56:26.773920,C0202418
+15662507,,,,,Pediatric/Neonates,PK case-report,tramadol,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,168,2025-12-02T15:56:26.773920,C0040610
+15876424,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta/transporter,Verapamil/Morphine/Methadone/levo-α-acetylmethadol/buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,169,2025-12-02T15:56:26.773920,C0042523|C0026549|C0202418|C3536876|C0006405
+15960639,,,,,Pediatric/Infant,PK,Oxycodone,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,170,2025-12-02T15:56:26.773920,C0030049
+16007420,,,,,Maternal/labor/delivery/Neonate,PK,tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,171,2025-12-02T15:56:26.773920,C0040610
+16021436,,,,,Maternal/Labor/Delivery/Neonate,PK,Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,172,2025-12-02T15:56:26.773920,C0015846
+16130057,,,,,Pediatric/Infant,PK/PD,Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,173,2025-12-02T15:56:26.773920,C0015846
+16261362,,,,,Maternal/Pregnancy/Postpartum/Neonate,PK/PD,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,174,2025-12-02T15:56:26.773920,C0202418
+16283273,,,,,Pediatric/Infant,PK,Tramadol,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,175,2025-12-02T15:56:26.773920,C0040610
+16394684,,,,,Maternal/Labor/Delivery/Neonate,CT/PK,Remifentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,176,2025-12-02T15:56:26.773920,C0246631
+16433900,,,,,Pediatric/Neonates,PK,Tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,177,2025-12-02T15:56:26.773920,C0040610
+16496200,,,,,Pediatric/Newborn/Infant/Children,PK,Piritramide,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,178,2025-12-02T15:56:26.773920,C0031982
+16799915,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta/metabolizing enzyme,Methadone,Human,"Figures involve saturation curves, effect of chemical inhibitors on methadone metabolism in the placenta,/effect of antibodies on the CYP enzymes influencing methadone metabolism",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,179,2025-12-02T15:56:26.773920,C0202418
+16802855,,,,,Pediatric/Infant/Children,PK,Oxycodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,180,2025-12-02T15:56:26.773920,C0030049
+16949720,,,,,Maternal/Pregnancy,PK/PD,diamorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,181,2025-12-02T15:56:26.773920,C0011892
+17478871,,,,,Maternal/Lactation/Neonate,PK,Methadone,Human,Concentration-time figure available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,182,2025-12-02T15:56:26.773920,C0202418
+17550483,,,,,Maternal/Lactation/Neonate,PK,oxycodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,183,2025-12-02T15:56:26.773920,C0030049
+17564645,,,,,Children,PK,sevoflurane/fentanyl,Human,Fentanyl is the comparison group,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,184,2025-12-02T15:56:26.773920,C0074414|C0015846
+17661614,,,,,Maternal/Lactation,PK case-report,hydrocodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,185,2025-12-02T15:56:26.773920,C0020264
+17913403,,,,,Pediatric/Neonates,PK,Tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,186,2025-12-02T15:56:26.773920,C0040610
+17921260,,,,,Maternal/Pregnancy/Postpartum/Neonate,PK,Buprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,187,2025-12-02T15:56:26.773920,C0006405
+17934758,,,,,Pediatric/Newborn/Infant/Children,PK/PD,Piritramide,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,188,2025-12-02T15:56:26.773920,C0031982
+18032310,,,,,Neonates/Children/Adults,PK/protein-binding/in-vitro,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,189,2025-12-02T15:56:26.773920,C0026549
+18043481,,,,,Maternal/Lactation/Infant,PK,ketoprofen/nalbuphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,190,2025-12-02T15:56:26.773920,C0022635|C0027348
+18166326,,,,,Pediatric/Delivery/Fetal/Preterm/term,PK,methadone,human,"Concentration-time curve available, P-gp expression by gestional age bar chart",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,191,2025-12-02T15:56:26.773920,C0202418
+18166563,,,,,Maternal/Postpartum/Neonate,PK,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,192,2025-12-02T15:56:26.773920,C0202418
+18294329,,,,,Maternal/Postpartum/Lactation/Neonate,PK/PD,Tramadol,Human,Concentration-time figure available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,193,2025-12-02T15:56:26.773920,C0040610
+18317231,,,10.1203/PDR.0b013e31816ff712,,Neonate/Infant,PK,tramadol,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,194,2025-12-02T15:56:26.773920,C0040610
+18333767,,,,,Maternal/Lactation/Infant,PK,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,195,2025-12-02T15:56:26.773920,C0202418
+18381513,,,,,Pediatric/Neonates,PK/PD,Morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,196,2025-12-02T15:56:26.773920,C0026549
+18454213,,,,,Maternal/Lactation/Neonate,PK/PD,Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,197,2025-12-02T15:56:26.773920,C0015846
+18474065,,,,,Maternal/Labor/Delivery/Infant,PK/PD,buprenorphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,198,2025-12-02T15:56:26.773920,C0006405
+18701886,,,,,Maternal/Pregnancy/Neonate,PK/PD,buprenorphine/Morphine/Opiates,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,199,2025-12-02T15:56:26.773920,C0006405|C0026549|C0376196
+18806024,,,,,Pediatric/Children,CT/PK,Remifentanil/Sevoflurane,human,BP/heart rate monitoring by drug group figures,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,200,2025-12-02T15:56:26.773920,C0246631|C0074414
+19136395,,,,,Maternal/Lactation/Neonate,PK,Buprenorphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,201,2025-12-02T15:56:26.773920,C0006405
+19260034,,,,,Pediatric/Children,PK/PD,Morphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,202,2025-12-02T15:56:26.773920,C0026549
+19286842,,,,,Maternal/Pregnancy/Lactation/Neonate,PK case-report,Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,203,2025-12-02T15:56:26.773920,C0015846
+19325013,,,,,Maternal/Pregnancy/Postpartum,PK,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,204,2025-12-02T15:56:26.773920,C0006405
+19330322,,,,,Maternal/Labor/Delivery/Fetal,PK,Fentanyl,Human,Individual level data in figure,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,205,2025-12-02T15:56:26.773920,C0015846
+19519880,,,,,Maternal/Labor/Delivery/Fetal,PK/placenta/transporter,methadone/cocaine/heroin,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,206,2025-12-02T15:56:26.773920,C0202418|C0202362|C0011892
+19544152,,,,,Maternal/Labor/Delivery/Fetal,PK/ex-vivo/protein-binding,buprenorphine,human,BUP/AP ratio to time figures available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,207,2025-12-02T15:56:26.773920,C0006405
+19761699,,,,,Children/Adults,PK,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,208,2025-12-02T15:56:26.773920,C0015846
+19793724,,,,,Pediatric/Children,PK,Diamorphine,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,209,2025-12-02T15:56:26.773920,C0011892
+19839946,,,,,Pediatric/Infant/Children,PK,ketobemidone,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,210,2025-12-02T15:56:26.773920,C0064311
+19996953,,,,,Maternal//Labor/delivery,PK,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,211,2025-12-02T15:56:26.773920,C0015846
+20216119,,,,,Maternal/Delivery/Neonate,PK/PD,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,212,2025-12-02T15:56:26.773920,C0006405
+20592651,,,,,Maternal/Pregnancy,PK/sweat,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,213,2025-12-02T15:56:26.773920,C0202418
+20607647,,,,,Maternal/Pregnancy/Delivery,PK/metabolizing enzyme,Buprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,214,2025-12-02T15:56:26.773920,C0006405
+20837591,,,,,Children,PK/PG case report,hydrocodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,215,2025-12-02T15:56:26.773920,C0020264
+20854338,,,,,Infant,PK/PD,Methadone/Morphine/Codeine/Hydromorphone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,216,2025-12-02T15:56:26.773920,C0202418|C0026549|C0009214|C0012306
+21175445,,,,,Maternal/Delivery/Fetal,PK,Methadone/Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,217,2025-12-02T15:56:26.773920,C0202418|C0006405
+21245372,,,,,Maternal/Pregnancy/Postpartum/Neonate,PK/PD,Methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,218,2025-12-02T15:56:26.773920,C0202418
+21258236,,,,,Preterm/term,"PK, in-vitro",remifentanil,Human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,219,2025-12-02T15:56:26.773920,C0246631
+21343764,,,,,Maternal/Postpartum/Neonate,PK,Hydrocodone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,220,2025-12-02T15:56:26.773920,C0020264
+21348770,,,,,Maternal/Postpartum/Lactation/Neonate,PK,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,221,2025-12-02T15:56:26.773920,C0202418
+21398109,,,,,Maternal/Postpartum/Lactation/Neonate,PK,meperidine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,222,2025-12-02T15:56:26.773920,C0025376
+21642610,,,,,Maternal/Labor/Delivery,PK,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,223,2025-12-02T15:56:26.773920,C0026549
+21743375,,,,,Maternal/Pregnancy/Postpartum/Neonate,PK,Methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,224,2025-12-02T15:56:26.773920,C0202418
+21819795,,,,,Maternal/Pregnancy/Neonate,PK,Buprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,225,2025-12-02T15:56:26.773920,C0006405
+21860340,,,,,Maternal/Pregnancy/Postpartum,PK,Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,226,2025-12-02T15:56:26.773920,C0006405
+22011128,,,,,Maternal/neonate/lactation/postpartum,PKPD,Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,227,2025-12-02T15:56:26.773920,C0006405
+22025493,,,,,Maternal/Delivery/Neonate,PK,Fentanyl,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,228,2025-12-02T15:56:26.773920,C0015846
+22037641,,,10.1097/ALN.0b013e318238fec5,,Adolescent,PK,methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,229,2025-12-02T15:56:26.773920,C0202418
+22428721,,,10.1111/j.1479-828X.2012.01424.x,,Maternal/Neonate,PK,Buprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,230,2025-12-02T15:56:26.773920,C0006405
+22448718,,,,,Maternal/Labor/Delivery/Neonate,PK,Oxycodone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,231,2025-12-02T15:56:26.773920,C0030049
+22486937,,,10.1111/j.1460-9592.2012.03844.x,,Children,"PK, PD",morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,232,2025-12-02T15:56:26.773920,C0026549
+22492761,,,,,Pediatric/Toddler,PK/PD case-reports,codeine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,233,2025-12-02T15:56:26.773920,C0009214
+22898875,,,10.1007/s13181-012-0249-8,,Neonate,"PK, case report",Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,234,2025-12-02T15:56:26.773920,C0202418
+22926004,,,10.1007/s00213-012-2833-7,,Maternal/Pregnancy,PK,Methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,235,2025-12-02T15:56:26.773920,C0202418
+23129079,,,,,Pediatric/Toddler,PK case-report,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,236,2025-12-02T15:56:26.773920,C0006405
+23703421,,,,,Maternal/Delivery,PK,Hydrocodone/Oxymorphone/Oxycodone/Morphine/Codeine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,237,2025-12-02T15:56:26.773920,C0020264|C0030073|C0030049|C0026549|C0009214
+23709324,,,,,Pediatric,PK/PD case-reports,codeine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,238,2025-12-02T15:56:26.773920,C0009214
+24269714,,,10.1016/j.cca.2013.11.015,,Maternal/labor/delivery,PK,Hydrocodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,239,2025-12-02T15:56:26.773920,C0020264
+24749886,,,10.1111/anae.12624,,Pediatric,PK,morphine  ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,240,2025-12-02T15:56:26.773920,C0026549
+24824135,,,,,Infant,PK,sufentanil,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,241,2025-12-02T15:56:26.773920,C0143993
+25080430,,,10.1093/bja/aeu258,,Neonate,PK,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,242,2025-12-02T15:56:26.773920,C0006405
+25196888,,,,,Children/Adults,PK,Hydrocodone/acetaminophen,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,243,2025-12-02T15:56:26.773920,C0020264|C2917659
+25340733,,,,,Neonate,PK/PG,Morphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,244,2025-12-02T15:56:26.773920,C0026549
+25904383,,,,,Infant/Children,PK,fentanyl,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,245,2025-12-02T15:56:26.773920,C0015846
+26385675,,,,,Maternal//Labor/delivery,PK,Fentanyl,Human,Correspondence/Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,246,2025-12-02T15:56:26.773920,C0015846
+26701799,,,,,Maternal//Labor/delivery/Neonate,PK case-report,Fentanyl,Human,Correspondence,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,247,2025-12-02T15:56:26.773920,C0015846
+27082504,,,,,Infant,PG/PK,Tramadol,human,metabolic ratio-genotype figures available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,248,2025-12-02T15:56:26.773920,C0040610
+27083254,,,,,Maternal/Pregnancy,PK/method development/validation,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,249,2025-12-02T15:56:26.773920,C0006405
+27138295,,,10.1002/cpdd.266,,Pediatric,PK,Tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,250,2025-12-02T15:56:26.773920,C0040610
+27140798,,,,,Children/Adolescent/Adults,PK,Tramadol,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,251,2025-12-02T15:56:26.773920,C0040610
+27563013,,,10.1177/0890334416663198,,Maternal/Pregnancy/Neonate,PK,buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,252,2025-12-02T15:56:26.773920,C0006405
+27572136,,,,,Children/Adults,PK/PD,methadone,human,Concentration-time curve available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,253,2025-12-02T15:56:26.773920,C0202418
+27687214,,,,,Maternal/Pregnancy/Postpartum,PK,Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,254,2025-12-02T15:56:26.773920,C0006405
+27775447,,,,,Pediatric,PK/PD,hydromorphone,human,case report with postmortem drug levels,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,255,2025-12-02T15:56:26.773920,C0012306
+28238111,,NCT01955993,10.1007/s40272-017-0216-6,,Pediatric,PK,fentanyl ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,256,2025-12-02T15:56:26.773920,C0015846
+28244808,,NCT01959204,10.2217/pgs-2016-0183,,Pediatric,PK,oxycodone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,257,2025-12-02T15:56:26.773920,C0030049
+28320034,,,10.1055/s-0037-1600917,,Maternal/Pregnancy/Neonate,PK,methadone,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,258,2025-12-02T15:56:26.773920,C0202418
+28669739,,,,,Maternal/Pregnancy,PK,Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,259,2025-12-02T15:56:26.773920,C0006405
+28805611,,,10.1016/j.tjog.2016.09.010,,Maternal/labor/delivery/Neonate,PK,Propofol/Remifentanil,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,260,2025-12-02T15:56:26.773920,C1369539|C0246631
+29389842,,,10.1097/FTD.0000000000000482,,Neonate/Pediatric,PK,Dihydrocodeine/codeine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,261,2025-12-02T15:56:26.773920,C0058056|C0009214
+29521669,,,,,Maternal/Pregnancy/Postpartum,PK,Methadone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,262,2025-12-02T15:56:26.773920,C0202418
+29943508,,NCT00685672,10.1111/aas.13175,,Maternal//Labor/delivery/Neonate,PK,Fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,263,2025-12-02T15:56:26.773920,C0015846
+30300922,,,,,Neonate,PK/PG,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,264,2025-12-02T15:56:26.773920,C0026549
+30421550,,,,,Adolescent,PK/PG/PD,morphine,human,case report,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,265,2025-12-02T15:56:26.773920,C0026549
+30632944,,,,,Noenate,PK case-report/PM,Sufentanil,human,Concentration-time curve available. The sufentanil population PK model derived from Greeley et  al.4 was individualized to maximize fitting of the simulated PK profile curve with observed concentration points (n = 31) separately in ECMO (14 measured levels)/non-ECMO period (17 measured levels; Figure 1). The fitting was performed using Bayesian method.,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,266,2025-12-02T15:56:26.773920,C0143993
+30870164,,,10.1097/ALN.0000000000002664,,Children,"PK, PD",remifentanil,Human,plot of remifentanil venous plasma concentrations through time,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,267,2025-12-02T15:56:26.773920,C0246631
+31213888,,NCT01729728,10.2147/JPR.S197039,,Pediatric,PK ,tapentadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,268,2025-12-02T15:56:26.773920,C2001271
+31303784,,NCT01134536,10.2147/JPR.S197348,,Pediatric,PK ,tapentadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,269,2025-12-02T15:56:26.773920,C2001271
+31644840,,,,,Maternal/Pregnancy,PK case-report,Burprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,270,2025-12-02T15:56:26.773920,CUI_NOT_FOUND
+31688081,,,,,Children,PK/PD,Morphine,human,"concentration-time, cmax-weight,/biomarker concentration figures available",Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,271,2025-12-02T15:56:26.773920,C0026549
+31929398,,,,,Maternal/Pregnancy/Postpartum,PK,Buprenorphine,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,272,2025-12-02T15:56:26.773920,C0006405
+32044215,,ACTRN12618001012268,10.1016/j.ijoa.2020.01.001,,Maternal//Labor/delivery/Neonate,PK,fentanyl ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,273,2025-12-02T15:56:26.773920,C0015846
+32052397,,,10.1055/s-0040-1701505,,Maternal/Pregnancy/Neonate,PK,methadone ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,274,2025-12-02T15:56:26.773920,C0202418
+32090339,,,,,Neonate/Pediatric,PK,morphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,275,2025-12-02T15:56:26.773920,C0026549
+32363420,,,,,Maternal/Labor/Delivery/Neonate,PK,Hydromorphone,Human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,276,2025-12-02T15:56:26.773920,C0012306
+32591773,,,10.1093/jat/bkaa069,,Neonate,PK ,fentanyl ,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,277,2025-12-02T15:56:26.773920,C0015846
+33030873,,,,,Maternal/Pregnancy,PK/case report/urine,fentanyl,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,278,2025-12-02T15:56:26.773920,C0015846
+33481403,,,,,Children,PK,Methadone,human,concentration-time/AAG concentration-time plots available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,279,2025-12-02T15:56:26.773920,C0202418
+33542653,,"NCT02221674, NCT02081391, EudraCT 2014-002259-24",10.2147/JPR.S269530,,Pediatric ,PK,Tapentadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,280,2025-12-02T15:56:26.773920,C2001271
+33864131,,,10.1007/s00737-021-01128-1,,Maternal/Pregnancy/Neonate,PK,Buprenorphine,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,281,2025-12-02T15:56:26.773920,C0006405
+34037761,,,10.1093/jat/bkab055,,Maternal/Lactation/Neonate,PK,Tramadol,human,,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,282,2025-12-02T15:56:26.773920,C0040610
+34784012,, ,,,Pediatric/Adolescent,CT/PK/PD,Fentanyl,human,concentration-dose figures available,Combined PK ONLY Opioids Data Curation 10.2023.xlsx,Aditi,Study,Study,283,2025-12-02T15:56:26.773920,C0015846
+26723196,,,,,Maternal/pregnancy/delivery/postpartum/fetal,PK,pravastatin,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,2,2025-12-02T15:57:20.104443,C0085542
+26360932,,,,,Maternal/pregnancy,PK,pravastatin,Human,assay development and validation,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,3,2025-12-02T15:57:20.104443,C0085542
+2899094,,,,,maternal/lactation,PK,dilevalol,Human,concentration-time curves available,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,4,2025-12-02T15:57:20.104443,C0012368
+4043203,,,,,Maternal/lactation/infant,PK,labetalol,Human,"concentration-time curves available, only a figure for amniotic fluid samples",PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,5,2025-12-02T15:57:20.104443,C0022860
+26635169,,,,,Maternal/pregnancy/delivery/lactation/fetal,PK,labetalol,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,6,2025-12-02T15:57:20.104443,C0022860
+18507654,,,,,maternal/lactation,PK/RCT,domperidone,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,7,2025-12-02T15:57:20.104443,C0013015
+3882143,,,,,maternal/lactation,PK/RCT,domperidone,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,8,2025-12-02T15:57:20.104443,C0013015
+30464396,,,,,Maternal/lactation/infant,PK,rosuvastatin,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,9,2025-12-02T15:57:20.104443,C0965129
+34951046,,,,,Maternal/pregnancy/delivery/lactation/fetus/neonate,PK,pravastatin,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,10,2025-12-02T15:57:20.104443,C0085542
+37565541,,,,,Maternal/lactation/infant,PK,Lemborexant,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,11,2025-12-02T15:57:20.104443,C4519269
+36301249,,,,,Maternal/pregnancy/delivery/lactation/fetus/neonate,PK,zolpidem,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,12,2025-12-02T15:57:20.104443,C0078839
+35361275,,,,,Maternal/delivery/lactation,PK,brotizolam/periciazine/sulpiride/alprazolam,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,13,2025-12-02T15:57:20.104443,C0054151|C0033459|C0038803|C0002333
+34348038,,,,,Maternal/delivery/lactation/infant,PK,trazodone,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,14,2025-12-02T15:57:20.104443,C0040805
+30798209,,,,,Maternal/lactation/infant,PK,alprazolam,Human,,PRGLAC PK curations_AS.xlsx,Aditi,Study,Study,15,2025-12-02T15:57:20.104443,C0002333
+28708853,PMC5510868,,10.1371/journal.pone.0181082,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,4,2025-12-02T15:57:39.630242,
+30380149,,,10.1111/1556-4029.13947,,not pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,5,2025-12-02T15:57:39.630242,
+19743889,,,10.2165/11318050-000000000-00000,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,6,2025-12-02T15:57:39.630242,
+36094046,,,10.1002/cpt.2746,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,7,2025-12-02T15:57:39.630242,
+1749054,,,10.3109/15563659109025744,,pregnant and neonate,PK & outcomes ,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,10,2025-12-02T15:57:39.630242,
+16271264,,,10.1016/j.biopsych.2005.06.040,,pregnant,PK & outcomes ,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,17,2025-12-02T15:57:39.630242,
+12860776,,,10.1001/archpsyc.60.7.720,,pregnant and neonate,PK & outcomes ,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,19,2025-12-02T15:57:39.630242,
+19011433,,,10.1097/JCP.0b013e31818d2048,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,25,2025-12-02T15:57:39.630242,
+8834425,,,10.1097/00004714-199602000-00015,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,29,2025-12-02T15:57:39.630242,
+8379562,,,10.1176/ajp.150.10.1541,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,30,2025-12-02T15:57:39.630242,
+26416100,,,10.1007/s00228-015-1944-6,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,31,2025-12-02T15:57:39.630242,
+28129551,,,10.1016/j.jad.2017.01.019,,pregnant,PK & outcomes ,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,33,2025-12-02T15:57:39.630242,
+7893588,PMC1364880,,10.1111/j.1365-2125.1994.tb04382.x,,not pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,39,2025-12-02T15:57:39.630242,
+36103361,,,10.1111/bcp.15533,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,40,2025-12-02T15:57:39.630242,
+31186961,PMC6521577,,10.1155/2019/7801465,,pregnant,observational,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,41,2025-12-02T15:57:39.630242,
+25846018,PMC5515586,,10.1007/s00737-015-0524-1,,pregnant,observational,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,43,2025-12-02T15:57:39.630242,
+16449615,,,10.1001/jama.295.5.499,,pregnant,observational/outcomes,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,44,2025-12-02T15:57:39.630242,
+34587291,PMC8608752,,10.1002/phar.2628,,pregnant & neonate,observational/outcomes,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,45,2025-12-02T15:57:39.630242,
+9286185,,,10.1176/ajp.154.9.1255,,pregnant,PK,,Human,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,48,2025-12-02T15:57:39.630242,
+11578995,,,10.1176/appi.ajp.158.10.1631,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,50,2025-12-02T15:57:39.630242,
+ 16190933,,,10.1111/j.1528-1167.2005.00251.x,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,51,2025-12-02T15:57:39.630242,
+37982307,PMC10833183,,10.1097/YIC.0000000000000520,,pregnant,PK & outcomes,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,52,2025-12-02T15:57:39.630242,
+19658039,PMC2873069,,10.1080/14767050903168424,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,57,2025-12-02T15:57:39.630242,
+12590627,,,10.4088/jcp.v64n0114,,pregnant,PK,,Human ,,PRGLAC Data Curation - Sara's Team (1).xlsx,IU team,Study,Study,61,2025-12-02T15:57:39.630242,
+33464021,PMC8043511,NCT0818258 ,10.1097/INF.0000000000003055,,,PK,"Zidovudine, Lamivudine, and Lopinavir / Ritonavir",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,20,2025-12-02T16:03:28.889391,C0043474|C0209738|CUI_NOT_FOUND|C1114179
+35599363,,,10.1111/apt.17040,,lactation,PK,Tenofovir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,21,2025-12-02T16:03:28.889391,C0384228
+34254323,PMC8448937,NCT00042289 ,10.1111/jcpt.13477,,3rd trimester/postpartum,PK,Tenofovir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,22,2025-12-02T16:03:28.889391,C0384228
+34483946,PMC34483946,,10.3389/fphar.2021.734760,,lactation,PK,Tenofovir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,23,2025-12-02T16:03:28.889391,C0384228
+33252481,PMC7856036,,10.1097/QAD.0000000000002762,,,PK,Maraviroc,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,24,2025-12-02T16:03:28.889391,C1667052
+35489377,PMC9313528,NCT01302847,10.1016/S2352-3018(22)00044-3,,,"PK, clinical",Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,25,2025-12-02T16:03:28.889391,C3253985
+35288747,,,10.1093/jac/dkac081,,2nd and 3rd trimester,PK,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,26,2025-12-02T16:03:28.889391,C3253985
+35189082,PMC9046096,NCT02259127,10.1016/S2352-3018(21)00292-7,,,PK and safety,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,27,2025-12-02T16:03:28.889391,C3253985
+31539371,PMC6754125,NCT02245022,10.1371/journal.pmed.1002895,,3rd trimester/lactation,PK and safety,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,28,2025-12-02T16:03:28.889391,C3253985
+30728322,,,10.3851/IMP3291,,,PK,Darunavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,29,2025-12-02T16:03:28.889391,C1435444
+33638195,,,10.1111/jcpt.13388,,,PK,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,30,2025-12-02T16:03:28.889391,C0026056
+33037681,,NCT02894645,10.1111/bcp.14596,,,CT,Vincristine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,31,2025-12-02T16:03:28.889391,C0042679
+34023919,,NCT00674193 ,10.1007/s00280-021-04295-1,,,PK,"Vincristine, Actinomycin-D",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,32,2025-12-02T16:03:28.889391,C0042679|C0010934
+29718415,,,10.1093/jpids/piy032,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,33,2025-12-02T16:03:28.889391,C0042313
+29742643,,,10.1097/INF.0000000000002088,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,34,2025-12-02T16:03:28.889391,C0042313
+30371946,,,10.1002/jcph.1323,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,35,2025-12-02T16:03:28.889391,C0042313
+30785491,,,10.31744/einstein_journal/2019AO4396,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,36,2025-12-02T16:03:28.889391,C0042313
+30937470,,,10.1007/s00228-019-02664-7,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,37,2025-12-02T16:03:28.889391,C0042313
+30950674,,,10.1080/23744235.2018.1541250,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,38,2025-12-02T16:03:28.889391,C0042313
+30983533,,,10.1080/1120009X.2019.1599574,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,39,2025-12-02T16:03:28.889391,C0042313
+31019403,,,10.5863/1551-6776-24.2.107,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,40,2025-12-02T16:03:28.889391,C0042313
+31301023,,,10.1007/s13318-019-00568-6,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,41,2025-12-02T16:03:28.889391,C0042313
+31342543,,,10.1002/jcph.1498.,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,42,2025-12-02T16:03:28.889391,C0042313
+31403243,,,10.1111/bcpt.13303,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,43,2025-12-02T16:03:28.889391,C0042313
+31911739,,,10.5005/jp-journals-10071-23275,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,44,2025-12-02T16:03:28.889391,C0042313
+31935538,,,10.1016/j.ijid.2019.12.036,,,"PK, popPK modelling",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,45,2025-12-02T16:03:28.889391,C0042313
+32296501,PMC7147555,,10.1136/ejhpharm-2018-001720,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,46,2025-12-02T16:03:28.889391,C0042313
+32507958,PMC7383037,,10.1007/s40272-020-00400-8,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,47,2025-12-02T16:03:28.889391,C0042313
+32636687,PMC7334008,,10.2147/RMHP.S244836,,,"PK, Clinical",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,48,2025-12-02T16:03:28.889391,C0042313
+32641912,PMC7337133,,10.5863/1551-6776-25.5.423,,,"PK, Clinical",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,49,2025-12-02T16:03:28.889391,C0042313
+32922785,PMC7453445,,10.1177/2050312120951058,,,PE,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,50,2025-12-02T16:03:28.889391,C0042313
+32984899,,,10.1093/icvts/ivaa162,,,"PK, PE",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,51,2025-12-02T16:03:28.889391,C0042313
+33053028,PMC7595722,,10.5935/0103-507X.20200067,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,52,2025-12-02T16:03:28.889391,C0042313
+33068298,PMC7839485,,10.1002/cpt.2088,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,53,2025-12-02T16:03:28.889391,C0042313
+33070357,,,10.1002/phar.2473,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,54,2025-12-02T16:03:28.889391,C0042313
+33189901,PMC7848885,,10.1016/j.ejps.2020.105643,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,55,2025-12-02T16:03:28.889391,C0042313
+33318009,PMC8092535,,10.1128/AAC.02523-20,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,56,2025-12-02T16:03:28.889391,C0042313
+33472817,PMC8899688,,10.1136/ejhpharm-2020-002479,,,"popPK modelling, clinical",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,57,2025-12-02T16:03:28.889391,C0042313
+33708851,PMC7940948,,10.21037/atm-20-4005,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,58,2025-12-02T16:03:28.889391,C0042313
+33789546,,NCT02839486 ,10.1177/02676591211006828,,,"PD, PK",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,59,2025-12-02T16:03:28.889391,C0042313
+33793589,PMC8016336,,10.1371/journal.pone.0247714,,,"PK, PD",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,60,2025-12-02T16:03:28.889391,C0042313
+33830468,,,10.1007/s40272-021-00445-3,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,61,2025-12-02T16:03:28.889391,C0042313
+33947475,PMC8097779,,10.1186/s40360-021-00489-8,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,62,2025-12-02T16:03:28.889391,C0042313
+34197665,PMC9255595,,10.1111/ped.14905,,,"PK, dosing scheme",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,63,2025-12-02T16:03:28.889391,C0042313
+34289402,,,10.1016/j.ijantimicag,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,64,2025-12-02T16:03:28.889391,C0042313
+34544677,,,10.1016/j.pedneo.2021.06.018,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,65,2025-12-02T16:03:28.889391,C0042313
+34612690,,,10.1128/Spectrum.00460-21,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,66,2025-12-02T16:03:28.889391,C0042313
+34645692,,,10.1542/hpeds.2020-004465,,,"PK, PD",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,67,2025-12-02T16:03:28.889391,C0042313
+34664790,PMC8525138,,10.1002/prp2.885,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,68,2025-12-02T16:03:28.889391,C0042313
+35037934,,,10.1093/jac/dkab469,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,69,2025-12-02T16:03:28.889391,C0042313
+35049078,,,10.1002/jcph.2029,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,70,2025-12-02T16:03:28.889391,C0042313
+35094368,,,10.1007/s43441-021-00368-8,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,71,2025-12-02T16:03:28.889391,C0042313
+35255798,,,10.2174/1573396318666220307115307,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,72,2025-12-02T16:03:28.889391,C0042313
+35293782,PMC9046768,,10.1128/aac.01899-21,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,73,2025-12-02T16:03:28.889391,C0042313
+35383737,,,10.1097/FTD.0000000000000986,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,74,2025-12-02T16:03:28.889391,C0042313
+35465728,PMC9112885,,10.1128/aac.02191-21,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,75,2025-12-02T16:03:28.889391,C0042313
+35581390,,,10.1007/s00431-022-04500-0,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,76,2025-12-02T16:03:28.889391,C0042313
+35688759,,,10.1016/j.jiac.2022.05.017,,,popPK modelling,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,77,2025-12-02T16:03:28.889391,C0042313
+35821590,PMC9345591,,10.1097/FTD.0000000000000978,,,PK,Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,78,2025-12-02T16:03:28.889391,C0042313
+35844752,PMC9279905,,10.3389/fped.2022.867712,,,"PK, PE",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,79,2025-12-02T16:03:28.889391,C0042313
+36222533,PMC9664865,,10.1128/aac.01109-22. Epub 2022 Oct 12,,,"PK, PE",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,80,2025-12-02T16:03:28.889391,C0042313
+36254077,PMC9575798,,10.1097/MD.0000000000030145,,,"PK, PE",Vancomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,81,2025-12-02T16:03:28.889391,C0042313
+32107351,,,10.1097/FTD.0000000000000751.,,,"PE, PK",Valproic Acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,82,2025-12-02T16:03:28.889391,C0042291
+32276895,,,,,,"PE, PK",Valproic Acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,83,2025-12-02T16:03:28.889391,C0042291
+33336359,PMC8089035,NCT01960075,,,,"CT, PK","Valproic Acid, Fosphenytoin, Levetiracetam ",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,84,2025-12-02T16:03:28.889391,C0042291|C0244656|C0377265
+34000957,,,10.1080/00498254.2021.1931554,,,"PE, PK",Valproic Acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,85,2025-12-02T16:03:28.889391,C0042291
+35997547,,,10.1080/00498254.2022.2117109,,,PK,Valproic Acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,86,2025-12-02T16:03:28.889391,C0042291
+32168220,,,,,postpartum,PK,Tranexamic acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,87,2025-12-02T16:03:28.889391,C0040613
+33248975,,NCT 03287336 ,,,delivery,"PK, CT",Tranexamic acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,88,2025-12-02T16:03:28.889391,C0040613
+32620262,,NCT02188576 ,,,,"PK, CT",Tranexamic acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,89,2025-12-02T16:03:28.889391,C0040613
+35679896,,,,,delivery,"PK, CT",Tranexamic acid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,90,2025-12-02T16:03:28.889391,C0040613
+30681278,,,,,,"PK, PD","Topiramate, Levetiracetam",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,91,2025-12-02T16:03:28.889391,C0076829|C0377265
+31112621,PMC6710527,,10.1111/bcp.13988,,,PK and safety,Tobramycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,92,2025-12-02T16:03:28.889391,C1507821
+32568427,,,10.1002/ppul.24917,,,PK,Tobramycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,93,2025-12-02T16:03:28.889391,C1507821
+35921575,PMC8443261,,10.1089/ped.2020.1161,,,PK,Tobramycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,94,2025-12-02T16:03:28.889391,C1507821
+32960984,PMC7891399,"NCT00825929, NCT01745822 ",10.1002/jcph.1746,,3rd trimester/postpartum,PK,Tenofovir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,95,2025-12-02T16:03:28.889391,C0384228
+31910460,,MK-7625A-010,10.1055/s-0039-3402719,,,PK and safety,Tazobactam ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,96,2025-12-02T16:03:28.889391,C0075870
+30116895,,,10.1007/s00737-018-0905-3,,lactation,PK,Sertraline,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,97,2025-12-02T16:03:28.889391,C0074393
+33253437,,,10.1002/hup.2772,,3rd trimester/delivery,"PK, PE","Sertraline, Escitalopram",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,99,2025-12-02T16:03:28.889391,C0074393|C1099456
+33751155,,NCT02185547 ,10.1007/s00228-021-03122-z,,2nd and 3rd trimester/labor/postpartum ,PK,Sertraline,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,100,2025-12-02T16:03:28.889391,C0074393
+35248877,,EudraCT: 2013–004881-33 ,10.1016/j.comppsych.2022.152301,,,CT,Sertraline,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,101,2025-12-02T16:03:28.889391,C0074393
+36087110,,,10.1002/jcph.2152,,3rd trimester/postpartum,PK,rosuvastatin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,103,2025-12-02T16:03:28.889391,C0965129
+31981411,PMC7214659,NCT02364258,10.1111/cts.12749.,,,"PK, PG",rosuvastatin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,104,2025-12-02T16:03:28.889391,C0965129
+36181377,,NCT03943888 ,10.1111/cts.13429,,,PK,Rocuronium ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,105,2025-12-02T16:03:28.889391,C0209337
+31958904,,,10.9758/cpn.2020.18.1.41,,,PK,Risperidone,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,106,2025-12-02T16:03:28.889391,C0073393
+35303169,,,10.1007/s00702-022-02485-6,,,PK,Risperidone,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,107,2025-12-02T16:03:28.889391,C0073393
+32448902,PMC7996637,NCT01751568,10.1093/jpids/piaa039,,,PK and safety,Raltegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,108,2025-12-02T16:03:28.889391,C1966407
+32661003,PMC7508578,NCT02099474,10.1128/AAC.00759-20,,3rd trimester/postpartum,PK,Raltegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,109,2025-12-02T16:03:28.889391,C1966407
+31913995,PMC7144886,,10.1097/QAI.0000000000002294,,,PK and safety,Raltegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,110,2025-12-02T16:03:28.889391,C1966407
+31689263,PMC7232968,,10.1097/QAD.0000000000002369,,,PK and safety,Raltegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,111,2025-12-02T16:03:28.889391,C1966407
+30549267,,,10.1002/cpt.1330,,,"PG, PK study",pravastatin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,112,2025-12-02T16:03:28.889391,C0085542
+34033812,PMC8611118,,10.1016/j.ajog.2021.05.018,,1st and 2nd trimester/postpartum,,pravastatin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,113,2025-12-02T16:03:28.889391,C0085542
+34029707,,TCTR20190904002 ,10.1016/j.ijid.2021.05.044,,,PK,Piperacillin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,114,2025-12-02T16:03:28.889391,C0031955
+35083184,PMC8785252,,,,,PK,Piperacillin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,115,2025-12-02T16:03:28.889391,C0031955
+30257076,,NCT01887743,10.1111/ijpo.12459,,,"PK, PG",Pantoprazole,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,116,2025-12-02T16:03:28.889391,C0081876
+30456415,,,10.1007/s00228-018-2600-8,,,popPK modelling,Oxcarbazepine ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,117,2025-12-02T16:03:28.889391,C0069751
+36006433,,,10.1007/s00228-022-03373-4,,,PK,Oxcarbazepine ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,118,2025-12-02T16:03:28.889391,C0069751
+35037389,PMC8981429,,10.1111/cns.13796,,1st to 3rd trimester,PK,Oxcarbazepine ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,119,2025-12-02T16:03:28.889391,C0069751
+32451952,PMC7467405,NCT02486406 ,10.1007/s12325-020-01389-9,,,PK,"Ombitasvir, Paritaprevir, Ritonavir, and Dasabuvir Mini-Tabs Plus Ribavirin",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,120,2025-12-02T16:03:28.889391,C3852670|C3864824|C1114179|CUI_NOT_FOUND
+31250045,,UMIN000026382,10.1007/s00228-019-02709-x,,,"PK, PG",Nitroglycerin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,121,2025-12-02T16:03:28.889391,C0017887
+31415566,,NCT01744405,10.1371/journal.pntd.0007647,,lactation,"PK, CT",nifurtimox ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,124,2025-12-02T16:03:28.889391,C0028073
+33242457,PMC7933083,NCT02140255,10.1016/S2352-3018(20)30274-5,,,PK and safety,Nevirapine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,125,2025-12-02T16:03:28.889391,C0132326
+33710978,,,10.1097/INF.0000000000002994,,,PK,Nevirapine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,126,2025-12-02T16:03:28.889391,C0132326
+33839311,PMC8636019,NCT01699633,10.1016/j.meegid.2021.104856,,,"PK, PG",Nevirapine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,127,2025-12-02T16:03:28.889391,C0132326
+31332062,PMC6761507,NCT01699633 ,10.1128/AAC.00839-19,,,PK,Nevirapine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,128,2025-12-02T16:03:28.889391,C0132326
+30358179,,NCT00042289 ,10.1002/jcph.1331,,3rd trimester/postpartum,PK,Nelfinavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,129,2025-12-02T16:03:28.889391,C1315121
+31920289,PMC6939174,NCT03238560 ,10.2147/DDDT.S226913,,,"PK, PG",Montelukast,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,130,2025-12-02T16:03:28.889391,C0298130
+32960980,PMC7855781,,10.1002/jcph.1738,,,PK,Montelukast,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,131,2025-12-02T16:03:28.889391,C0298130
+32354497,,,10.1016/j.clinthera.2020.03.013,,,case report,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,134,2025-12-02T16:03:28.889391,C0026056
+32403162,,,10.1002/cpt.1890,,,PK,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,135,2025-12-02T16:03:28.889391,C0026056
+32947180,,,10.1016/j.seizure.2020.09.004,,,PK,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,136,2025-12-02T16:03:28.889391,C0026056
+35488482,,UMIN R000052504,10.1111/aas.14077,,,CT,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,137,2025-12-02T16:03:28.889391,C0026056
+36036654,,,10.1002/prp2.1004.,,,PK modelling,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,138,2025-12-02T16:03:28.889391,C0026056
+36388077,,,10.1055/s-0041-1725148,,,PK,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,139,2025-12-02T16:03:28.889391,C0026056
+36428856,,,10.3390/diagnostics12112797,,,PK,Midazolam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,140,2025-12-02T16:03:28.889391,C0026056
+31646767,,NCT00934843,10.1002/psp4.12470,,,popPK/PD modelling,Methylprednisolone ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,141,2025-12-02T16:03:28.889391,C0025815
+32768896,,,10.1016/j.clineuro.2020.106118,,lactation,PK,Methylprednisolone ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,142,2025-12-02T16:03:28.889391,C0025815
+34513939,PMC8424008,NTR3579,10.3389/fcvm.2021.640543,,,PK,Methylprednisolone ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,143,2025-12-02T16:03:28.889391,C0025815
+32776159,,NCT02470234 ,10.1007/s40272-020-00409-z,,,"CT, PK",Methylphenidate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,144,2025-12-02T16:03:28.889391,C0025810
+30488179,,NCT02076997 ,10.1007/s00280-018-3733-2,,,"PK, safety",Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,145,2025-12-02T16:03:28.889391,C0025677
+30835935,,,10.1002/pbc.27637,,,PK,Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,146,2025-12-02T16:03:28.889391,C0025677
+31867853,,,10.1002/pbc.28123,,,PK,Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,147,2025-12-02T16:03:28.889391,C0025677
+33361876,,,10.18926/AMO/61215,,,"case report, PE, PK",Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,148,2025-12-02T16:03:28.889391,C0025677
+34637107,,,10.1007/s13318-021-00726-9,,,PK,Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,149,2025-12-02T16:03:28.889391,C0025677
+36193736,,,10.2217/pgs-2022-0098,,,"PE, PK",Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,150,2025-12-02T16:03:28.889391,C0025677
+36463535,,,10.1007/s00280-022-04498-0,,,"PE, PK",Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,151,2025-12-02T16:03:28.889391,C0025677
+32612964,,,10.3389/fped.2020.00307,,,"PE, PK, PD",Methotrexate,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,152,2025-12-02T16:03:28.889391,C0025677
+31980499,PMC7076518,NCT01329016 ,10.1124/dmd.119.088435,,pregnant/delivery,PK,Metformin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,155,2025-12-02T16:03:28.889391,C0025598
+34964262,PMC9304251,NCT01587378,10.1111/bcpt.13703,,2nd and 3rd trimester/postpartum,PK,Metformin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,156,2025-12-02T16:03:28.889391,C0025598
+34602916,PMC8481739,,10.1177/15593258211033140,,,"PK, CT",Metformin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,157,2025-12-02T16:03:28.889391,C0025598
+33476064,,ChiCTR-OPC-16008703 ,,,,PK,Meropenem,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,158,2025-12-02T16:03:28.889391,C1640456
+35489632,,TCTR20200901002 ,,,,"PK, PD",Meropenem,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,159,2025-12-02T16:03:28.889391,C1640456
+31081020,PMC6640304,NCT01637558 , 10.1093/jac/dkz171,,,PK,Lopinavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,160,2025-12-02T16:03:28.889391,C1146864
+34213821,,,10.1111/coa.13833,,,PK,Lidocaine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,161,2025-12-02T16:03:28.889391,C0023660
+30803975,PMC6496103,,10.1128/AAC.02569-18,,,PK,Levofloxacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,162,2025-12-02T16:03:28.889391,C0282386
+35842213,,,10.1016/j.ijid.2022.07.029,,,"PK, safety",Levofloxacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,163,2025-12-02T16:03:28.889391,C0282386
+32890316,,,10.1097/FTD.0000000000000805,,,"PE, PK",Levetiracetam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,164,2025-12-02T16:03:28.889391,C0377265
+34114632,,,10.1093/tropej/fmab041,,,PK,Levetiracetam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,165,2025-12-02T16:03:28.889391,C0377265
+34131926,,,10.1111/bcp.14940,,lactation,PK,Levetiracetam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,166,2025-12-02T16:03:28.889391,C0377265
+31191874,,,10.1177/2040622319851652,,1st to 3rd trimester/postpartum,PK,Levetiracetam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,167,2025-12-02T16:03:28.889391,C0377265
+36260320,,,,,pregnant,"PPK modelling, PK",Levetiracetam,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,168,2025-12-02T16:03:28.889391,C0377265
+35880962,,NCT04285684,10.1080/02791072.2022.2101903,,lactation,PK,Ketamine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,169,2025-12-02T16:03:28.889391,C0022614
+30825333,,,10.1002/phar.2243,,,PK modelling,Ketamine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,170,2025-12-02T16:03:28.889391,C0022614
+30395239,,,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,171,2025-12-02T16:03:28.889391,C0022209
+30572983,,,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,172,2025-12-02T16:03:28.889391,C0022209
+31909887,,,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,173,2025-12-02T16:03:28.889391,C0022209
+34183327,,,,,,PK and safety ,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,174,2025-12-02T16:03:28.889391,C0022209
+34420049,,SRCTN63579542 ,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,175,2025-12-02T16:03:28.889391,C0022209
+34674665,,,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,176,2025-12-02T16:03:28.889391,C0022209
+34686231,,,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,177,2025-12-02T16:03:28.889391,C0022209
+35659902,,NCT03559582 ,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,178,2025-12-02T16:03:28.889391,C0022209
+35868608,,TCTR20190423002 ,,,,PK,isoniazid,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,179,2025-12-02T16:03:28.889391,C0022209
+31106898,,NCT02286154,10.1002/ajh.25510,,,PK,Hydroxyurea,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,180,2025-12-02T16:03:28.889391,C0020402
+31623213,PMC6833033,,10.3390/jcm8101701,,,PK,Hydroxyurea,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,182,2025-12-02T16:03:28.889391,C0020402
+33029796,,,10.1002/jcph.1759,,,PK,Hydroxyurea,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,183,2025-12-02T16:03:28.889391,C0020402
+31257615,PMC6813860,,10.1002/jcph.1477,,pregnant,"PG, PK, oral",Hydralazine (IV),Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,184,2025-12-02T16:03:28.889391,CUI_NOT_FOUND
+32562572,,,10.1002/jcph.1681,,3rd trimester/delivery,PK,Furosemide,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,185,2025-12-02T16:03:28.889391,C0016860
+33848384,,,10.1111/ped.14735,,,PK,Furosemide,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,186,2025-12-02T16:03:28.889391,C0016860
+33041716,PMC7541024,,10.5863/1551-6776-25.7.617,,,PK of phentoin,Fosphenytoin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,187,2025-12-02T16:03:28.889391,C0244656
+35879140,,,10.1016/j.braindev.2022.06.012,,,PK,Fosphenytoin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,188,2025-12-02T16:03:28.889391,C0244656
+33855449,,NCT03453177 ,10.1093/jac/dkab083,,,popPK modelling,Fosfomycin ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,189,2025-12-02T16:03:28.889391,C0016610
+32015036,PMC7179299,NCT00042289 ,10.1128/AAC.02260-19,,2nd and 3rd trimester/postpartum,PK,Fosamprenavir/amprenavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,190,2025-12-02T16:03:28.889391,C1176315|C1114170
+30322973,,CTRI/2014/11/005190,10.1136/archdischild-2018-315345,,,PK,Fentanyl,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,191,2025-12-02T16:03:28.889391,C0015846
+30721546,,EUDRACT no 2011-000310-19,10.1111/apa.14744,,,"PK, PD ",Fentanyl,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,192,2025-12-02T16:03:28.889391,C0015846
+31168770,PMC7122686,,10.1007/s40262-019-00773-1,,,popPKmodelling,Fentanyl,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,193,2025-12-02T16:03:28.889391,C0015846
+33604895,,,10.1002/phar.2515,,,popPK modelling,Fentanyl,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,195,2025-12-02T16:03:28.889391,C0015846
+33831904,PMC8270511,NCT01504841 ,10.1097/QAD.0000000000002902,,,"PK, clinical",Etravirine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,197,2025-12-02T16:03:28.889391,C1456409
+30767719,,,10.2217/pgs-2018-0111,,pregnant/postpartum,PK,Emtricitabine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,199,2025-12-02T16:03:28.889391,C0909839
+32330231,,NCT00825929 ,10.1093/cid/ciaa488,,3rd trimester/delivery/postpartum,PK,Elvitegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,200,2025-12-02T16:03:28.889391,C2606637
+34945777,PMC8707067,,10.3390/jpm11121303,,,"PK, PG ",Efavirenz,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,201,2025-12-02T16:03:28.889391,C1114177
+32811669,PMC7578077,,10.1016/j.clinthera.2020.07.008,,pregnant/postpartum,PK,Efavirenz,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,202,2025-12-02T16:03:28.889391,C1114177
+30530925,PMC6642905,,10.3851/IMP3283,,2nd and 3rd trimester/delivery/postpartum,PK,Efavirenz,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,203,2025-12-02T16:03:28.889391,C1114177
+31241542,PMC6597185,NCT00802802 ,10.1097/QAI.0000000000002061,,,PK,Efavirenz,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,204,2025-12-02T16:03:28.889391,C1114177
+32893393,PMC7894166,NCT03346434,10.1111/jdv.16928,,,"PK, safety and efficacy",Dupilumab,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,205,2025-12-02T16:03:28.889391,C3660996
+32969489,PMC8247037,NCT02407756 and NCT02612454,10.1111/bjd.19460,,,"PK, safety and efficacy",Dupilumab,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,206,2025-12-02T16:03:28.889391,C3660996
+34270797,,NCT03054428 and NCT03345914,10.1002/cpt.2366,,,"popPK modeling, PK",Dupilumab,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,207,2025-12-02T16:03:28.889391,C3660996
+35868341,PMC9630157,NCT02259127,10.1016/S2352-3018(22)00160-6,,,PK and safety,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,208,2025-12-02T16:03:28.889391,C3253985
+36111542,PMC9612713,,10.1097/QAD.0000000000003350,,,PK,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,209,2025-12-02T16:03:28.889391,C3253985
+32103260,,NCT00825929,10.1093/cid/ciaa006,,3rd trimester/postpartum/delivery,PK,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,210,2025-12-02T16:03:28.889391,C3253985
+32763217,PMC7445428,NCT02259127,10.1016/S2352-3018(20)30189-2,,,PK and safety,Dolutegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,211,2025-12-02T16:03:28.889391,C3253985
+31206433,,NCT02955732 ,10.1213/ANE.0000000000004264,,,PK,Dexmedetomidine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,212,2025-12-02T16:03:28.889391,C0113293
+31333469,,,10.3389/fphar.2019.00756. eCollection 2019,,,PK,Dexmedetomidine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,213,2025-12-02T16:03:28.889391,C0113293
+32158472,,,10.1155/2020/2582965,,,PK,Dexmedetomidine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,214,2025-12-02T16:03:28.889391,C0113293
+33813550,,NCT02757625 ,10.1097/PCC.0000000000002730,,,"CT, PK",Dexmedetomidine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,215,2025-12-02T16:03:28.889391,C0113293
+34076612,PMC8173003,NCT00042289 ,10.1097/QAD.0000000000002857,,2nd and 3rd trimester/delivery/postpartum,PK,Darunavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,216,2025-12-02T16:03:28.889391,C1435444
+31923087,PMC7258985,NCT00042289 ,10.1097/QAI.0000000000002261,,3rd and 3rd trimester/postpartum,PK,Darunavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,217,2025-12-02T16:03:28.889391,C1435444
+30873741,,NCT00855335,10.1111/hiv.12721,,4th and 3rd trimester/postpartum,PK,Darunavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,218,2025-12-02T16:03:28.889391,C1435444
+35625789,,,10.3390/biomedicines10051050,,,PK,Ciprofloxacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,219,2025-12-02T16:03:28.889391,C0008809
+35988360,,,10.1016/j.amjoto.2022.103573,,,PK,Ciprofloxacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,220,2025-12-02T16:03:28.889391,C0008809
+31306396,,NCT02475733,10.1097/INF.0000000000002392,,,PK and safety,Ceftazidime,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,221,2025-12-02T16:03:28.889391,C0007559
+30113711,,,10.1002/jcph.1294,,,PK,Ceftazidime,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,222,2025-12-02T16:03:28.889391,C0007559
+30718247,,,,,,PK,Cefepime,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,223,2025-12-02T16:03:28.889391,C0055003
+31101409,,,,,,"safety, CT, PK",Caffeine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,224,2025-12-02T16:03:28.889391,C0236734
+33116005,,,,,,PK,Caffeine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,225,2025-12-02T16:03:28.889391,C0236734
+33180318,,,,,,PK,Caffeine,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,226,2025-12-02T16:03:28.889391,C0236734
+32006953,PMC7223897,NCT02907593,10.1038/s41390-020-0792-y,,,"PK, CT",budesonide ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,227,2025-12-02T16:03:28.889391,C0054201
+35666852,PMC9278710,NCT00762073,10.1097/MPG.0000000000003482,,,PK,budesonide ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,228,2025-12-02T16:03:28.889391,C0054201
+34302760,,,10.1016/S2352-4642(21)00165-6,,,PK,Bictegravir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,229,2025-12-02T16:03:28.889391,C4507568
+34665470,,,,,3rd trimester,PK,Betamethasone,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,230,2025-12-02T16:03:28.889391,C0005308
+35733414,PMC9218519,EudraCT number 2 0 19– 0 0 2 2 3 8 - 3 5,10.1002/prp2.980,,,PK,"beclomethasone, formoterol ",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,231,2025-12-02T16:03:28.889391,C0004905|C0060657
+34569533,,,10.1159/000518657,,,"case report, PK",Baclofen(oral),Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,232,2025-12-02T16:03:28.889391,CUI_NOT_FOUND
+34310083,,NCT04294069,,,delivery,PK,Azithromycin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,233,2025-12-02T16:03:28.889391,C0052796
+31561960,PMC6878161,,10.1016/j.jpeds.2019.07.064,,,"PK, CT",atorvastatin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,234,2025-12-02T16:03:28.889391,C0286651
+34732682,PMC8837686,NCT00042289 ,10.1097/QAI.0000000000002856,,2nd and 3rd trimester/delivery/postpartum,PK,Atazanavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,235,2025-12-02T16:03:28.889391,C1623567
+32997183,,,10.1007/s00702-020-02253-4,,,PK,Aripiprazole,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,236,2025-12-02T16:03:28.889391,C0299792
+34735099,,,10.1097/JCP.0000000000001490,,,"CT, PE, PK",Aripiprazole,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,237,2025-12-02T16:03:28.889391,C0299792
+30539740,,,10.1016/j.jiac.2018.10.001,,,PK,Amikacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,238,2025-12-02T16:03:28.889391,C2734783
+34035682,PMC8139570,,10.5863/1551-6776-26.4.372,,,PK,Amikacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,239,2025-12-02T16:03:28.889391,C2734783
+34142330,,,10.1007/s40272-021-00456-0,,,PK,Amikacin,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,240,2025-12-02T16:03:28.889391,C2734783
+34855626,PMC8826609,PACTR202007806554538 ,10.1097/QAI.0000000000002871,,,PK,Abacavir / Lamivudine / Lopinavir / Ritonavir ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,241,2025-12-02T16:03:28.889391,C1114174|C0209738|C1146864|C1114179
+32697327,,,10.1093/cid/ciaa1026,,,PK,Abacavir,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,242,2025-12-02T16:03:28.889391,C1114174
+32519032,,NCT01906671 ,,,,PK,6-mercaptopurine ,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,243,2025-12-02T16:03:28.889391,C0000618
+36177836,PMC9704434,,10.1093/jac/dkac337,,lactation,PK,"10 raltegravir, 1 bictegravir, 2 rilpivirine, 2 darunavir/ritonavir and 3 tenofovir alafenamide patients",Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,244,2025-12-02T16:03:28.889391,CUI_NOT_FOUND|CUI_NOT_FOUND|CUI_NOT_FOUND|CUI_NOT_FOUND|CUI_NOT_FOUND
+31950485,,EudraCT no. 2012-003189-42,,,labor,"efficacy, PD, PK",Oxycodone,Human,,PK Curation_BPCA_Cleaned.xlsx,PK curation_Shijun,Study,Study,245,2025-12-02T16:03:28.889391,C0030049
+36768172,PMC9916042,,10.3390/ijms24031848,,delivery,PK,Sotalol,Human,,PRGLAC_PK_curation_051925.xlsx,PK curation_Shijun,Study,Study,218,2025-12-02T16:05:05.344521,C0037707
+3239381,,,10.3109/00016348809029859,,1st trimester,PK,"diazepam, oxazepam",Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,121,2025-12-02T16:05:10.607303,C0012010|C0029997
+24134697,,,10.1186/1471-2393-13-188,,delivery,"PE/CT, PK",diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,122,2025-12-02T16:05:10.607303,C0012010
+3114732,,,10.1111/j.1600-0773.1987.tb01777.x,,delivery,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,123,2025-12-02T16:05:10.607303,C0012010
+2721106,,,10.1038/clpt.1989.65,,delivery/labor,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,124,2025-12-02T16:05:10.607303,C0012010
+2105100,,,10.1111/j.1365-2125.1990.tb03612.x,,lactation,case report PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,126,2025-12-02T16:05:10.607303,C0012010
+7397084,,,10.1111/j.1471-0528.1980.tb04587.x,,delivery,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,128,2025-12-02T16:05:10.607303,C0012010
+3920372,,,10.1080/02791072.1985.10472320,,lactation,case report PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,134,2025-12-02T16:05:10.607303,C0012010
+13006,,,10.1002/j.1879-3479.1976.tb00598.x,,pregnancy/abortion,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,169,2025-12-02T16:05:10.607303,C0012010
+20359,,,10.1002/j.1879-3479.1976.tb00105.x,,labor,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,175,2025-12-02T16:05:10.607303,C0012010
+533212,,,,,labor,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,184,2025-12-02T16:05:10.607303,C0012010
+699483,,,10.1002/cpt1978245590,,labor,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,188,2025-12-02T16:05:10.607303,C0012010
+889746,,,10.1111/j.1471-0528.1977.tb12659.x,,delivery,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,190,2025-12-02T16:05:10.607303,C0012010
+989345,,,,,lactation,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,194,2025-12-02T16:05:10.607303,C0012010
+24101397,,,,,pregnancy,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,206,2025-12-02T16:05:10.607303,C0012010
+4441031,,,,,pregnancy/abortion,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,218,2025-12-02T16:05:10.607303,C0012010
+7318882,,,10.1007/BF00627924,,delivery,PK,diazepam,human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,242,2025-12-02T16:05:10.607303,C0012010
+8244501,,,10.1007/BF02822187,,,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,246,2025-12-02T16:05:10.607303,C0012010
+8671346,,,10.1093/oxfordjournals.humrep.a019272,,pregnancy/abortion,PK,diazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,248,2025-12-02T16:05:10.607303,C0012010
+2119270,,,10.1038/clpt.1990.148,,lactation,PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,259,2025-12-02T16:05:10.607303,C5401398
+25068572,,,10.1016/j.hrthm.2014.07.031,,pregnancy,PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,260,2025-12-02T16:05:10.607303,C5401398
+34026129,,,10.1002/ccr3.3992,,3rd trimester,case report PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,265,2025-12-02T16:05:10.607303,C5401398
+37060099,,,10.1186/s13006-023-00559-z,,lactation,case report PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,267,2025-12-02T16:05:10.607303,C5401398
+7803877,,,10.1177/106002809402800907,,"3rd trimester, labor",case report ,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,272,2025-12-02T16:05:10.607303,C5401398
+9475360,,,10.1159/000264498,,,case report PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,273,2025-12-02T16:05:10.607303,C5401398
+9672783,,,,,delivery,case report PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,274,2025-12-02T16:05:10.607303,C5401398
+1689933,,,10.1016/s0002-8703(05)80306-0,,"delivery, lactation",case report PK,flecainide,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,276,2025-12-02T16:05:10.607303,C5401398
+38593524,,,10.1016/j.thromres.2024.04.003,,lactation,case report PK,rivaroxaban,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,540,2025-12-02T16:05:10.607303,C1739768
+31746638,,,10.1089/bfm.2019.0230,,lactation,case report PK,rivaroxaban,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,542,2025-12-02T16:05:10.607303,C1739768
+31532233,,,10.1089/bfm.2019.0124,,lactation,case report PK,rivaroxaban,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,543,2025-12-02T16:05:10.607303,C1739768
+27396794,,,10.1016/j.chest.2016.01.021,,lactation,case report PK,rivaroxaban,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,547,2025-12-02T16:05:10.607303,C1739768
+32488251,,EudraCT 2018-003852-19,10.1182/blood.2020006231,,lactation,PK,rivaroxaban,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,597,2025-12-02T16:05:10.607303,C1739768
+2206788,,,10.1111/j.1365-2125.1990.tb03774.x,,lactation,PK,zopiclone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,606,2025-12-02T16:05:10.607303,C0078847
+23666580,,,10.1097/FTD.0b013e318288453f,,pregnancy,PK,"zopiclone, dextroamphetamine+A4139",Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,607,2025-12-02T16:05:10.607303,C0078847|CUI_NOT_FOUND
+17253922,,,10.1592/phco.27.2.306,,,case report ,zolpidem,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,615,2025-12-02T16:05:10.607303,C0078839
+19657707,,,10.1007/s00737-009-0100-7,,delivery,PK,zolpidem,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,616,2025-12-02T16:05:10.607303,C0078839
+2612539,,,10.1007/BF00679778,,lactation,PK,zolpidem,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,617,2025-12-02T16:05:10.607303,C0078839
+16199350,,,10.1016/j.reprotox.2005.03.005,,delivery,PK,hydroxyzine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,629,2025-12-02T16:05:10.607303,C0020404
+18193916,,,10.2165/00003088-200847020-00003,,lactation,PK,Duloxetine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,642,2025-12-02T16:05:10.607303,C0245561
+19809008,,,10.1345/aph.1M317,,"lactation, labor",case report PK,Duloxetine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,643,2025-12-02T16:05:10.607303,C0245561
+21359876,,,10.1007/s00737-011-0215-5,,"lactation, labor",case report PK,Duloxetine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,644,2025-12-02T16:05:10.607303,C0245561
+29485905,,,10.1089/bfm.2017.0126,,lactation,case report PK,"Duloxetine, methylphenidate",Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,646,2025-12-02T16:05:10.607303,C0245561|C0025810
+20848091,,,10.1007/s00228-010-0896-0,,3rd trimester,PK,Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,659,2025-12-02T16:05:10.607303,C0022860
+2309815,,,10.1016/0002-9378(90)90386-l,,3rd trimester,PK,Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,662,2025-12-02T16:05:10.607303,C0022860
+24297680,PMC4310214,,10.1007/s40262-013-0123-0,,2nd and 3rd trimester/postpartum,"PK, popPK modeling",Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,664,2025-12-02T16:05:10.607303,C0022860
+2616255,,,10.1007/BF01959416,,delivery,case report PK,Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,665,2025-12-02T16:05:10.607303,C0022860
+6849783,PMC1427790,,10.1111/j.1365-2125.1983.tb01531.x,,3rd trimester/postpartum,PK,Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,685,2025-12-02T16:05:10.607303,C0022860
+7295464,PMC1401807,,10.1111/j.1365-2125.1981.tb01224.x,,3rd trimester,CT,Labetalol,Human,excluded,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,687,2025-12-02T16:05:10.607303,C0022860
+8227470,,,10.1002/j.1552-4604.1993.tb01933.x,,pregnancy,PK,Labetalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,691,2025-12-02T16:05:10.607303,C0022860
+27528039,PMC5074472,,10.1124/dmd.116.071530,,pregnancy,PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,705,2025-12-02T16:05:10.607303,C0085208
+33814540,PMC8426418,,10.1097/FTD.0000000000000885,,pregnancy/postpartum/delivery,PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,706,2025-12-02T16:05:10.607303,C0085208
+8477117,,,10.1177/106002809302700406,,lactation,case report PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,710,2025-12-02T16:05:10.607303,C0085208
+22682512,,,,,,Chromatography,bupropion,Human,excluded,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,712,2025-12-02T16:05:10.607303,C0085208
+24732787,,, 10.1177/1060028014529548.,,lactation,case report PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,740,2025-12-02T16:05:10.607303,C0085208
+19265649,,,10.4088/jcp.07l03133,,lactation,PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,741,2025-12-02T16:05:10.607303,C0085208
+12416600,,,10.4088/jcp.v63n1008,,lactation,case report PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,742,2025-12-02T16:05:10.607303,C0085208
+14985597,PMC1747823,,10.1136/tc.2003.004093,,lactation,PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,743,2025-12-02T16:05:10.607303,C0085208
+27180885,PMC5321070,,10.1016/j.ajog.2016.05.016,,delivery,PK,bupropion,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,746,2025-12-02T16:05:10.607303,C0085208
+33449825,,,10.1089/bfm.2020.0259,,lactation,PK,Alprazolam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,749,2025-12-02T16:05:10.607303,C0002333
+17453885,,,10.1080/15563650601072191,,,case report PK,Alprazolam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,770,2025-12-02T16:05:10.607303,C0002333
+8527284,PMC1365102,,10.1111/j.1365-2125.1995.tb05778.x,,lactation,PK,Alprazolam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,776,2025-12-02T16:05:10.607303,C0002333
+15003078,,,,,,CT,Clonazepam,Human,excluded,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,789,2025-12-02T16:05:10.607303,C0009011
+4022513,,,,,pregnancy,case report PK,Clonazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,820,2025-12-02T16:05:10.607303,C0009011
+3208682,,,,,delivery,PK,clonidine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,3931,2025-12-02T16:05:10.607303,C0009014
+7605757,,,,,delivery,PK,clonidine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,3936,2025-12-02T16:05:10.607303,C0009014
+19116263,PMC2680537,,10.1124/dmd.108.024984,,pregnancy,PK,clonidine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,3958,2025-12-02T16:05:10.607303,C0009014
+20598025,,,10.1111/j.1447-0756.2010.01246.x,,pregnancy,PK,cefixime,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4042,2025-12-02T16:05:10.607303,C0060400
+17380592,,,,,lactation,PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4071,2025-12-02T16:05:10.607303,C0011812
+6489423,,,,,lactation,case report PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4090,2025-12-02T16:05:10.607303,C0011812
+9323536,,,,,pregnancy,case report PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4102,2025-12-02T16:05:10.607303,C0011812
+19371319,PMC2679109,,10.1111/j.1365-2125.2009.03366.x,,lactation,case report PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4105,2025-12-02T16:05:10.607303,C0011812
+25948577,,,10.1177/0890334415585067,,lactation,case report PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4147,2025-12-02T16:05:10.607303,C0011812
+26452730,,,10.1177/0890334415610080,,lactation,PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4150,2025-12-02T16:05:10.607303,C0011812
+27595432,,,,,pregnancy,PK,dextroamphetamine,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4154,2025-12-02T16:05:10.607303,C0011812
+16143486,,,10.1016/j.jpba.2005.07.021,,delivery/postpartum,PK,lorazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4183,2025-12-02T16:05:10.607303,C0024002
+42422,,,10.1093/bja/51.10.971,,delivery,PK,lorazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4191,2025-12-02T16:05:10.607303,C0024002
+6108045,,,10.1111/j.1600-0773.1980.tb01852.x,,delivery,PK,lorazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4192,2025-12-02T16:05:10.607303,C0024002
+6113019,,,10.1136/bmj.282.6270.1106,,delivery,PK,lorazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4193,2025-12-02T16:05:10.607303,C0024002
+6117307,PMC1401888,,10.1111/j.1365-2125.1981.tb01259.x,,delivery,PK,lorazepam,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4194,2025-12-02T16:05:10.607303,C0024002
+8329793,,,,,,,lorazepam,Human,excluded,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4197,2025-12-02T16:05:10.607303,C0024002
+3768252,PMC1401139,,10.1111/j.1365-2125.1986.tb02903.x,,lactation,PK,trazodone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4202,2025-12-02T16:05:10.607303,C0040805
+6117304,PMC1401819,,10.1111/j.1365-2125.1981.tb01232.x,,lactation,PK,Nadolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4298,2025-12-02T16:05:10.607303,C0027302
+3427136,,,,,pregnancy,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4348,2025-12-02T16:05:10.607303,C0033497
+3608376,,,,,3rd trimester/postpartum,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4352,2025-12-02T16:05:10.607303,C0033497
+425926,,,10.1016/0002-9149(79)90090-0,,lactation,case report PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4361,2025-12-02T16:05:10.607303,C0033497
+6519163,,,10.1007/BF00556896,,pregnancy,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4363,2025-12-02T16:05:10.607303,C0033497
+6653642,,,10.1007/BF00542115,,pregnancy/postpartum,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4367,2025-12-02T16:05:10.607303,C0033497
+6845404,,,10.1097/00007691-198303000-00008,,lactation,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4369,2025-12-02T16:05:10.607303,C0033497
+685844,,,10.1016/0002-9149(78)90916-5,,delivery,case report,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4370,2025-12-02T16:05:10.607303,C0033497
+6884410,,,10.1007/BF00607078,,delivery,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4372,2025-12-02T16:05:10.607303,C0033497
+7046334,,,10.3109/00016348209156947,,delivery,PK,"Propranolol, Sotalol",Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4373,2025-12-02T16:05:10.607303,C0033497|C0037707
+7312737,,,10.1136/pgmj.57.669.427,,delivery/lactation,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4375,2025-12-02T16:05:10.607303,C0033497
+7329891,PMC2426155,,10.1136/pgmj.57.671.546,,lactation,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4376,2025-12-02T16:05:10.607303,C0033497
+7742161,PMC1364960,,10.1111/j.1365-2125.1995.tb04430.x,,delivery,PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4377,2025-12-02T16:05:10.607303,C0033497
+909024,,,10.1016/s0022-3476(77)81049-4,,delivery,case report PK,Propranolol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4384,2025-12-02T16:05:10.607303,C0033497
+12932617,,,10.1016/s0735-1097(03)00779-4,,,"PK, PD",Sotalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4389,2025-12-02T16:05:10.607303,C0037707
+6861867,,,10.1007/BF00609896,,pregnancy,,Sotalol,,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4393,2025-12-02T16:05:10.607303,C0037707
+7426541,,,,,delivery/lactation,PK,Sotalol,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4394,2025-12-02T16:05:10.607303,C0037707
+21030064,,,10.1016/j.chemosphere.2010.09.079,,lactation,PK,Octocrylene,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4395,2025-12-02T16:05:10.607303,C0257715
+18709157,,,10.1289/ehp.11007,,3rd trimester,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4397,2025-12-02T16:05:10.607303,C0069803
+21900077,,,10.1289/ehp.1103634,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4398,2025-12-02T16:05:10.607303,C0069803
+23469879,PMC3638245,,10.1021/es400510g,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4400,2025-12-02T16:05:10.607303,C0069803
+23562958,,,10.1016/j.envpol.2013.03.023,,delivery,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4402,2025-12-02T16:05:10.607303,C0069803
+23712115,,,10.1016/j.scitotenv.2013.04.074,,"pregnancy, fetus",PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4403,2025-12-02T16:05:10.607303,C0069803
+23714150,,,10.1016/j.chemosphere.2013.04.067,,"pregnancy, abortion",PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4404,2025-12-02T16:05:10.607303,C0069803
+23942273,PMC3801458,,10.1289/ehp.1206335,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4405,2025-12-02T16:05:10.607303,C0069803
+24529000,PMC4530794,,10.1016/j.envres.2013.12.004,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4407,2025-12-02T16:05:10.607303,C0069803
+25435060,PMC4323928,,10.1016/j.ijheh.2014.11.001,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4409,2025-12-02T16:05:10.607303,C0069803
+25463527,PMC4441603,,10.1016/j.reprotox.2014.11.006,,lactation,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4410,2025-12-02T16:05:10.607303,C0069803
+25782115,PMC4492266,,10.1289/ehp.1408325,,pregnancy,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4411,2025-12-02T16:05:10.607303,C0069803
+26575635,PMC4688162,,10.1016/j.scitotenv.2015.11.019,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4414,2025-12-02T16:05:10.607303,C0069803
+27037776,PMC4834980,,10.1016/j.envint.2016.03.019,,3rd trimester,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4415,2025-12-02T16:05:10.607303,C0069803
+29100749,,,10.1016/j.envint.2017.10.005,,pregnancy/delivery/fetus,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4419,2025-12-02T16:05:10.607303,C0069803
+29232646,,,10.1016/j.envres.2017.11.033,,lactation,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4420,2025-12-02T16:05:10.607303,C0069803
+29294443,PMC5899051,,10.1016/j.envint.2017.12.011,,fetus,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4421,2025-12-02T16:05:10.607303,C0069803
+29362228,PMC5820990,,10.1530/EC-17-0375,,2nd trimester,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4422,2025-12-02T16:05:10.607303,C0069803
+29366524,PMC5866216,,10.1016/j.envint.2018.01.006,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4423,2025-12-02T16:05:10.607303,C0069803
+29458359,PMC5819230,,10.1186/s12940-018-0359-0,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4425,2025-12-02T16:05:10.607303,C0069803
+29477955,PMC5899953,,10.1016/j.envint.2018.02.017,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4426,2025-12-02T16:05:10.607303,C0069803
+29550712,PMC5899953,,10.1016/j.envint.2018.03.016,,3rd trimester,PK/PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4428,2025-12-02T16:05:10.607303,C0069803
+29803919,PMC6470297,,10.1016/j.envres.2018.05.005,,pregnancy,PK/PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4430,2025-12-02T16:05:10.607303,C0069803
+30316544,PMC6361519,,10.1016/j.envint.2018.08.020,,pregnancy,PK/PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4431,2025-12-02T16:05:10.607303,C0069803
+30412856,PMC6347499,,10.1016/j.envres.2018.10.030,,pregnancy,PK/PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4432,2025-12-02T16:05:10.607303,C0069803
+30517665,PMC6295961,,,,pregnancy,PK/PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4433,2025-12-02T16:05:10.607303,C0069803
+30557721,PMC6381819,,10.1016/j.chemosphere.2018.11.190,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4435,2025-12-02T16:05:10.607303,C0069803
+30624098,PMC6550292,,,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4436,2025-12-02T16:05:10.607303,C0069803
+31077917,PMC6728185,,,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4437,2025-12-02T16:05:10.607303,C0069803
+31081626,PMC8988263,,10.1021/acs.est.9b01562,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4438,2025-12-02T16:05:10.607303,C0069803
+31288179,PMC7169435,,10.1016/j.envint.2019.104903,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4439,2025-12-02T16:05:10.607303,C0069803
+32120140,PMC7169435,,10.1016/j.envint.2020.105523,,"preconception, pregnancy",PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4441,2025-12-02T16:05:10.607303,C0069803
+32248023,,,10.1016/j.envint.2020.105678,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4442,2025-12-02T16:05:10.607303,C0069803
+32279061,PMC8449543,,10.1016/j.ijheh.2020.113518,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4443,2025-12-02T16:05:10.607303,C0069803
+32320878,,,10.1016/j.scitotenv.2020.138503,,pregnancy/fetus/delivery,PK ,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4444,2025-12-02T16:05:10.607303,C0069803
+32345324,PMC7189447,,10.1186/s12940-020-00598-7,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4445,2025-12-02T16:05:10.607303,C0069803
+32653713,,,10.1016/j.scitotenv.2020.140678,,delivery,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4446,2025-12-02T16:05:10.607303,C0069803
+34952328,,,10.1016/j.ijheh.2021.113909,,3rd trimester,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4449,2025-12-02T16:05:10.607303,C0069803
+35421480,PMC7189447,,10.1016/j.scitotenv.2022.155191,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4450,2025-12-02T16:05:10.607303,C0069803
+35700189,,, 10.1097/EDE.0000000000001515,,pregnancy,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4451,2025-12-02T16:05:10.607303,C0069803
+35839910,PMC9514543,,10.1016/j.envres.2022.113897,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4452,2025-12-02T16:05:10.607303,C0069803
+36227336,PMC9750951,,10.2337/db22-0028,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4454,2025-12-02T16:05:10.607303,C0069803
+36346334,PMC10089295,,10.1093/humrep/deac230,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4455,2025-12-02T16:05:10.607303,C0069803
+36525700,PMC9898141,,10.1016/j.ijheh.2022.114104,,pregnancy,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4456,2025-12-02T16:05:10.607303,C0069803
+36568115,PMC9780366,,10.3389/fendo.2022.1071761,,pregnancy,PK,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4457,2025-12-02T16:05:10.607303,C0069803
+36701050,PMC10076394,,10.1007/s11356-023-25355-4,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4458,2025-12-02T16:05:10.607303,C0069803
+36857904,,,10.1016/j.envint.2023.107840,,pregnancy,PK /PE,Oxybenzone,Human,,PRGLAC_PK_curation_06232025.xlsx,PK curation_Shijun,Study,Study,4459,2025-12-02T16:05:10.607303,C0069803
+38145726,,,10.1016/j.ajog.2023.12.028,,"1st trimester, 3rd trimester",PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,2,2025-12-02T16:05:14.485046,C0004057
+31051121,,,10.1016/j.ajog.2019.04.027,,pregnancy,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,3,2025-12-02T16:05:14.485046,C0004057
+7823260,,,10.1515/jpme.1994.22.3.205,,"2th trimester, 3rd trimester",PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,4,2025-12-02T16:05:14.485046,C0004057
+1951559,,,10.1016/0002-9378(91)90444-v,,,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,5,2025-12-02T16:05:14.485046,C0004057
+28418802,,,10.1177/0890334417695207,,Lactation,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,6,2025-12-02T16:05:14.485046,C0004057
+8329296,,,,,delivery,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,7,2025-12-02T16:05:14.485046,C0004057
+4093506,,,,,pregnancy,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,8,2025-12-02T16:05:14.485046,C0004057
+7165392,,,10.1007/BF02110674,,delivery,PK,Aspirin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,9,2025-12-02T16:05:14.485046,C0004057
+6662181,,,,,Lactation,PK,metoclopramide,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,10,2025-12-02T16:05:14.485046,C0025853
+18426260,PMC2408825,NCT00279370,10.4088/jcp.v69n0419,,pregnancy/postpartum,PK/CT,"citalopram, Sertraline",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,11,2025-12-02T16:05:14.485046,C1369503|C0074393
+16855451,,,10.1097/01.jcp.0000227706.56870.dd,,postpartum,PK/CT,"Sertraline, nortriptyline",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,12,2025-12-02T16:05:14.485046,C0074393|C0373487
+11082480,,,10.1016/s0006-3223(00)00958-6,,delivery,"case report, PK",venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,13,2025-12-02T16:05:14.485046,C0078569
+11849190,PMC1874551,,10.1046/j.0306-5251.2001.01518.x,,Lactation,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,14,2025-12-02T16:05:14.485046,C0078569
+15035694,,,10.1017/S1461145704004286,,delivery,PK,"paroxetine, fluoxetine, venlafaxine",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,15,2025-12-02T16:05:14.485046,C0070122|C0016365|C0078569
+15367050,,,10.4088/jcp.v65n0911,,lactation,PK,"citalopram, paroxetine, fluoxetine, venlafaxine",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,16,2025-12-02T16:05:14.485046,C1369503|C0070122|C0016365|C0078569
+16390902,,,10.1176/appi.ajp.163.1.145,,pregnancy/delivery,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,17,2025-12-02T16:05:14.485046,C0078569
+16776907,,,10.1016/S1701-2163(16)32135-1,,lactation,"case report, PK",venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,18,2025-12-02T16:05:14.485046,C0078569
+18004149,,,10.1097/JCP.0b013e31815a57d8,,pregnancy/postpartum,"case report, PK",venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,19,2025-12-02T16:05:14.485046,C0078569
+19452377,,,10.1055/s-0028-1103296,,delivery,PK,"paroxetine, citalopram, fluoxetine, venlafaxine",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,20,2025-12-02T16:05:14.485046,C0070122|C1369503|C0016365|C0078569
+19455083,,,10.1097/FTD.0b013e3181a58fb4,,delivery,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,21,2025-12-02T16:05:14.485046,C0078569
+19607765,,,10.4088/JCP.08m05001,,Lactation,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,22,2025-12-02T16:05:14.485046,C0078569
+20060670,,,10.1016/j.forsciint.2009.12.034,,1st and 3rd trimester/postpartum,PK,"venlafaxine, citalopram, fluoxetine",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,23,2025-12-02T16:05:14.485046,C0078569|C1369503|C0016365
+20960017,,,10.1007/s00737-010-0188-9,,Lactation,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,24,2025-12-02T16:05:14.485046,C0078569
+24989434,,,10.1111/jcpt.12188,,1st to 3rd trimester/postpartum,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,25,2025-12-02T16:05:14.485046,C0078569
+31371035,,,10.1016/j.clinthera.2019.06.008,,delivery,"PK, PE","venlafaxine, citalopram, fluoxetine, paroxetine, sertraline",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,27,2025-12-02T16:05:14.485046,C0078569|C1369503|C0016365|C0070122|C0074393
+32056930,,,10.1016/j.jad.2020.02.010,,delivery,PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,28,2025-12-02T16:05:14.485046,C0078569
+9643618,PMC1873542,,10.1046/j.1365-2125.1998.00710.x,,Lactation,"CT, PK",venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,31,2025-12-02T16:05:14.485046,C0078569
+11729040,,,10.1176/appi.ajp.158.12.2089-a,,lactation,case report PK,venlafaxine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,32,2025-12-02T16:05:14.485046,C0078569
+32153014,,,10.1002/cpt.1827,,delivery,"PK, ex vivo placenta perfusion",infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,33,2025-12-02T16:05:14.485046,C0666743
+23834232,,,10.3109/00365521.2013.812141,,delivery,"PK, CT",infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,34,2025-12-02T16:05:14.485046,C0666743
+19142167,,,10.1097/MCG.0b013e31817f9367,,lactation,case report PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,35,2025-12-02T16:05:14.485046,C0666743
+23103819,,,10.1016/j.cgh.2012.10.024,,,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,36,2025-12-02T16:05:14.485046,C0666743
+34746508,PMC8553350,,10.23922/jarc.2021-021,,,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,37,2025-12-02T16:05:14.485046,C0666743
+23200982,,,10.1016/j.cgh.2012.11.011,,delivery,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,38,2025-12-02T16:05:14.485046,C0666743
+17045211,,,10.1016/j.cgh.2006.07.018,,lactation,case report PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,39,2025-12-02T16:05:14.485046,C0666743
+22405174,,,10.1016/j.crohns.2011.10.002,,pregnancy/postpartum,case report PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,40,2025-12-02T16:05:14.485046,C0666743
+29771301,,,10.1093/ecco-jcc/jjy058,,pregnant/delivery,"PK, safety",infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,41,2025-12-02T16:05:14.485046,C0666743
+29857090,,NCT00904878,10.1053/j.gastro.2018.05.040,,lactation,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,42,2025-12-02T16:05:14.485046,C0666743
+32981127,,,10.1111/apt.16102,,1st to 3rd trimester/postpartum,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,43,2025-12-02T16:05:14.485046,C0666743
+33079627,PMC8259366,,10.1177/2050640620964619,,1st to 3rd trimester/delivery/postpartum,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,44,2025-12-02T16:05:14.485046,C0666743
+34493490,PMC8862049,NCT01345071,10.1136/annrheumdis-2021-221036,,1st to 3rd trimester,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,45,2025-12-02T16:05:14.485046,C0666743
+35700275,,,10.1093/ibd/izac111,,delivery,case report PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,46,2025-12-02T16:05:14.485046,C0666743
+36120653,PMC9470929,,10.3389/fped.2022.935034,,delivery,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,47,2025-12-02T16:05:14.485046,C0666743
+25966992,,,10.1136/gutjnl-2015-309321,,delivery,"PK, CT",infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,48,2025-12-02T16:05:14.485046,C0666743
+22858514,,, 10.1097/MCG.0b013e31825f2807,,lactation,case report PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,49,2025-12-02T16:05:14.485046,C0666743
+21366638,,,10.1111/j.1365-2036.2011.04617.x,,delivery,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,50,2025-12-02T16:05:14.485046,C0666743
+27063728,,,10.1053/j.gastro.2016.04.002,,delivery,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,51,2025-12-02T16:05:14.485046,C0666743
+28318043,,,10.1111/apt.14040,,1st to 3rd trimester,PK,infliximab,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,52,2025-12-02T16:05:14.485046,C0666743
+20118196,PMC2872944,,10.1124/dmd.109.031245,,1st to 3rd trimester/postpartum,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,53,2025-12-02T16:05:14.485046,C0025598
+21538144,,,10.1007/s00228-011-1053-0,,3rd trimester/delivery,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,54,2025-12-02T16:05:14.485046,C0025598
+12436333,,,10.1007/s00125-002-0939-x,,lactation,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,55,2025-12-02T16:05:14.485046,C0025598
+12545145,,,10.1067/mcp.2003.9,,lactation,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,56,2025-12-02T16:05:14.485046,C0025598
+15932841,,,10.1097/01.AOG.0000163249.65810.5b,,lactation,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,57,2025-12-02T16:05:14.485046,C0025598
+16492218,,,10.1111/j.1464-5491.2005.01769.x,,3rd trimester/postpartum,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,58,2025-12-02T16:05:14.485046,C0025598
+23018469,,,10.1007/s40262-012-0008-7,,3rd trimester,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,59,2025-12-02T16:05:14.485046,C0025598
+28069720,,,10.1124/dmd.116.073841,,1st to 3rd trimester/postpartum,"PK, CT",metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,60,2025-12-02T16:05:14.485046,C0025598
+18662299,,,10.1111/j.1365-2125.2008.03190.x,,lactation,case report PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,61,2025-12-02T16:05:14.485046,C0025598
+15866611,,,10.1016/j.fertnstert.2004.11.051,,delivery,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,62,2025-12-02T16:05:14.485046,C0025598
+24633859,,NCT01240785,10.1007/s00592-014-0570-6,,3rd trimester/delivery,PK,metformin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,63,2025-12-02T16:05:14.485046,C0025598
+1608848,,,,,3rd trimester/delivery,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,64,2025-12-02T16:05:14.485046,C0028066
+17464806,,,10.1080/01443610701195009,,2nd and 3rd trimester,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,65,2025-12-02T16:05:14.485046,C0028066
+17667209,,,10.1097/01.mjt.0000209679.76335.df,,3rd trimester,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,66,2025-12-02T16:05:14.485046,C0028066
+1814844,,,,,3rd trimester/labor/lactation,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,67,2025-12-02T16:05:14.485046,C0028066
+18271884,,,10.1111/j.1471-0528.2007.01630.x,,3rd trimester/labor,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,68,2025-12-02T16:05:14.485046,C0028066
+18394772,,,10.1016/j.ejogrb.2008.02.003,,3rd trimester,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,69,2025-12-02T16:05:14.485046,C0028066
+1951561,,,10.1016/0002-9378(91)90446-x,,postpartum,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,70,2025-12-02T16:05:14.485046,C0028066
+21644845,,,10.3109/14767058.2011.583700,,3rd trimester,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,71,2025-12-02T16:05:14.485046,C0028066
+2216229,,,10.1097/00006250-199011000-00016,,3rd trimester/delivery,"PK, CT",nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,72,2025-12-02T16:05:14.485046,C0028066
+2256493,,,10.1016/0002-9378(90)90762-v,,pregnancy,"PK, CT",nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,73,2025-12-02T16:05:14.485046,C0028066
+22875663,,,10.1055/s-0032-1323590,,pregnancy,"PK, PE",nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,74,2025-12-02T16:05:14.485046,C0028066
+25407260,,,10.5414/CP202215,,pregnancy,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,75,2025-12-02T16:05:14.485046,C0028066
+2603904,,,10.1016/0002-9378(89)90909-5,,pregnancy,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,76,2025-12-02T16:05:14.485046,C0028066
+28042936,,,10.1111/bcp.13226,,3rd trimester/delivery,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,77,2025-12-02T16:05:14.485046,C0028066
+37987176,,,10.1111/bcpt.13965,,3rd trimester,PK,nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,78,2025-12-02T16:05:14.485046,C0028066
+30659932,,,10.1016/j.reprotox.2019.01.007,,lactation,"PK, PE",nifedipine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,79,2025-12-02T16:05:14.485046,C0028066
+10847234,,,10.1111/j.1471-0528.2000.tb13339.x,,delivery,PK,azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,80,2025-12-02T16:05:14.485046,C0052796
+12634646,,,10.1067/mob.2003.141,,delivery,PK,azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,81,2025-12-02T16:05:14.485046,C0052796
+25595580,,NCT01464840,10.1016/j.ajog.2015.01.015,,delivery/postpartum,PK,azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,82,2025-12-02T16:05:14.485046,C0052796
+27861509,,NCT01103713,10.1371/journal.pone.0165692,,2nd or 3rd trimester,"PK, CT",azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,83,2025-12-02T16:05:14.485046,C0052796
+8178871,,,10.1016/s0002-9378(94)70161-x,,lactation,case report PK,azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,84,2025-12-02T16:05:14.485046,C0052796
+38977063,,NCT04294069,10.1016/j.ajogmf.2024.101423,,pregnancy,PK,azithromycin,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,85,2025-12-02T16:05:14.485046,C0052796
+10583022,PMC2014386,,10.1046/j.1365-2125.1999.00040.x,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,86,2025-12-02T16:05:14.485046,C0016365
+11720696,,,10.1016/s0006-3223(01)01197-0,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,87,2025-12-02T16:05:14.485046,C0016365
+12242061,,,10.1016/s0006-3223(02)01368-9,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,88,2025-12-02T16:05:14.485046,C0016365
+12709723,,,10.1016/s0009-9236(02)17634-x,,pregnancy/lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,89,2025-12-02T16:05:14.485046,C0016365
+12727706,,,10.1176/appi.ajp.160.5.993,,delivery,PK,"citalopram, fluoxetine, paroxetine",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,90,2025-12-02T16:05:14.485046,C1369503|C0016365|C0070122
+14595087,,,10.1542/peds.112.5.e425,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,91,2025-12-02T16:05:14.485046,C0016365
+16433870,,,10.1111/j.1365-2125.2005.02538.x,,3rd trimester/lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,92,2025-12-02T16:05:14.485046,C0016365
+20631556,,,10.1097/JCP.0b013e3181e7be23,,pregnancy/postpartum/delivery,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,93,2025-12-02T16:05:14.485046,C0016365
+21824458,,,10.4088/JCP.10m06461,,delivery,PK,"fluoxetine, citalopram, venlafaxine, sertraline, nortriptyline, fluvoxamine, escitalopram",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,94,2025-12-02T16:05:14.485046,C0016365|C1369503|C0078569|C0074393|C0373487|C0085228|C1099456
+30346625,,,10.1002/cpt.1263,,3rd trimester/delivery,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,95,2025-12-02T16:05:14.485046,C0016365
+8932542,,,10.1002/j.1552-4604.1996.tb04150.x,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,96,2025-12-02T16:05:14.485046,C0016365
+9519072,,,10.1192/bjp.172.2.175,,lactation,PK,fluoxetine,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,97,2025-12-02T16:05:14.485046,C0016365
+10664835,,,10.1016/s0006-3223(99)00155-9,,lactation,case report PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,98,2025-12-02T16:05:14.485046,C1369503
+10971311,PMC2014979,,10.1046/j.1365-2125.2000.00253.x,,lactation,PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,99,2025-12-02T16:05:14.485046,C1369503
+12189365,,,10.1067/mcp.2002.126181,,2nd and 3rd trimester/lactation/delivery,PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,100,2025-12-02T16:05:14.485046,C1369503
+16418683,,,10.1097/01.ftd.0000187972.02624.2e,,lactation,"PK, case report",citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,101,2025-12-02T16:05:14.485046,C1369503
+28663113,,,10.1016/j.pnpbp.2017.06.030,,delivery,PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,102,2025-12-02T16:05:14.485046,C1369503
+9108657,,,10.1097/00007691-199704000-00021,,lactation,case report PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,103,2025-12-02T16:05:14.485046,C1369503
+9296327,,,10.1046/j.1365-2125.1997.t01-1-00576.x,,lactation,case report PK,citalopram,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,104,2025-12-02T16:05:14.485046,C1369503
+38841362,,,10.3389/fphar.2024.1414677,,lactation,PK,"paroxetine, citalopram, sertraline",Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,105,2025-12-02T16:05:14.485046,C0070122|C1369503|C0074393
+16765143,,,10.1016/j.clpt.2006.02.010,,lactation,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,106,2025-12-02T16:05:14.485046,C0026056
+18288078,,,10.1038/clpt.2008.1,,3rd trimester/postpartum,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,107,2025-12-02T16:05:14.485046,C0026056
+2288825,,,10.1111/j.1365-2125.1990.tb05443.x,,lactation,"PK, CT",midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,108,2025-12-02T16:05:14.485046,C0026056
+2919760,,,,,delivery,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,109,2025-12-02T16:05:14.485046,C0026056
+3688386,,,10.1111/j.1365-2044.1987.tb05168.x,,labor,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,110,2025-12-02T16:05:14.485046,C0026056
+6711257,,,10.1111/j.1399-6576.1984.tb02024.x,,labor,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,111,2025-12-02T16:05:14.485046,C0026056
+6851409,,,10.1038/clpt.1983.107,,labor,PK,midazolam,Human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,112,2025-12-02T16:05:14.485046,C0026056
+16190933,,,10.1111/j.1528-1167.2005.00251.x,,delivery/lactation,PK,gabapentin,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,113,2025-12-02T16:05:14.485046,C0060926
+17062788,,,10.1177/0890334406293421,,lactation,case report PK,gabapentin,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,114,2025-12-02T16:05:14.485046,C0060926
+21081764,,NCT00573664,10.1213/ANE.0b013e3181fdf5ee,,delivery,"PK, CT, PE",gabapentin,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,115,2025-12-02T16:05:14.485046,C0060926
+10485633,,,10.4088/jcp.v60n0803,,lactation,PK,paroxetine,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,117,2025-12-02T16:05:14.485046,C0070122
+10671385,,,10.1176/appi.ajp.157.2.185,,lactation,PK,paroxetine,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,118,2025-12-02T16:05:14.485046,C0070122
+11105735,,,10.4088/jcp.v61n1104,,lactation,PK,paroxetine,human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,119,2025-12-02T16:05:14.485046,C0070122
+11483479,,,10.1192/bjp.179.2.163,,lactation,PK,"paroxetine, fluvoxamine, sertraline",human,,PRGLAC_PK_curation_Cleaned.xlsx,PK curation_Shijun,Study,Study,120,2025-12-02T16:05:14.485046,C0070122|C0085228|C0074393
+29651785,,,,,,PBPK modeling,citalopram,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1096,2025-12-02T16:05:20.926464,C1369503
+11753268,,,,,,PK,midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1136,2025-12-02T16:05:20.926464,C0026056
+1577053,,,,,,PK,midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1143,2025-12-02T16:05:20.926464,C0026056
+19838691,,,,,,PK,midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1155,2025-12-02T16:05:20.926464,C0026056
+30472551,,,10.1016/j.jns.2018.09.035.,,,"PK, efficacy and safety",midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1179,2025-12-02T16:05:20.926464,C0026056
+31269280,,,10.1111/bcp.14047,,,PK,midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1183,2025-12-02T16:05:20.926464,C0026056
+9323623,,,,,,popPK modeling,midazolam,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1204,2025-12-02T16:05:20.926464,C0026056
+10417489,PMC2014283,,10.1046/j.1365-2125.1999.00992.x,,lactation,PK,paroxetine,human,,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1363,2025-12-02T16:05:20.926464,C0070122
+27575664,,,,,,PE/CT,paroxetine,Human,excluded,PRGLAC_PK_curation_SZ_By 91124.xlsx,PK curation_Shijun,Study,Study,1388,2025-12-02T16:05:20.926464,C0070122
